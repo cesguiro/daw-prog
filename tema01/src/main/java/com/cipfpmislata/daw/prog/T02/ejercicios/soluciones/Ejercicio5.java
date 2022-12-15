@@ -1,11 +1,12 @@
-package ejercicios.T02;
+package com.cipfpmislata.daw.prog.T02.ejercicios.soluciones;
 
 class Ejercicio5
 {
-/*     public Static Main(String args)
+     public static void main(String[] args)
     {
-        /Mostramos por pantalla la frase Hola mundo
-        System.out.println("Hola mundo")
-        /*
-            TODO: Mostrar por pantalla otra frase*/
+        //Mostramos por pantalla la frase Hola mundo
+        System.out.println("Hola mundo");
+        
+        /*TODO: Mostrar por pantalla otra frase*/
+    }
 }

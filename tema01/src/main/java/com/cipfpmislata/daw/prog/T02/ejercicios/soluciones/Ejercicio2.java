@@ -1,4 +1,4 @@
-package ejercicios.T02;
+package com.cipfpmislata.daw.prog.T02.ejercicios.soluciones;
 
 class Ejercicio2
 {
