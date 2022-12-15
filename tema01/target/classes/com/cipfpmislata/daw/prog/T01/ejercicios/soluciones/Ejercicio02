@@ -1,6 +1,0 @@
-check_entrada(DNI):
-    edad = calcula_edad(DNI)
-    Si (edad > 18):
-        devolver True
-    Si no:
-        devolver False
