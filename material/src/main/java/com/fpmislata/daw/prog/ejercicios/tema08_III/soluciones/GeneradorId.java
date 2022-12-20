@@ -13,8 +13,8 @@ public class GeneradorId {
     }
 
     public static GeneradorId getGenerador(){
-        GeneradorId instance = (GeneradorId.instance != null)? GeneradorId.instance: new GeneradorId();
-        return instance;
+        GeneradorId.instance = (GeneradorId.instance != null)? GeneradorId.instance: new GeneradorId();
+        return GeneradorId.instance;
     }
 
     public UUID getUuid() {

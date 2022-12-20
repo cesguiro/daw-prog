@@ -29,7 +29,7 @@ public class Conductor {
      */
     public void mostrarCocheAsignado() {
         System.out.println("Coche asignado a " + nombre + ": ");
-        System.out.println(asignado.toString());
+        System.out.println(asignado.toString());        
     }
 
     /**
