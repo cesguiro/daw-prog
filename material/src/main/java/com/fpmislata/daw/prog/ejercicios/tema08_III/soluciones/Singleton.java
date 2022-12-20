@@ -18,4 +18,5 @@ public class Singleton {
     public String checkInstance(){
         return "Instancia creada. Contador: " + this.contador;
     }
+
 }
