@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Flota {
     
-    public List<Coche> coches = new ArrayList<>();
+    public List<Coche> coches = new ArrayList<Coche>();
 
     public void anyadirCoche(Coche coche){
         coches.add(coche);
