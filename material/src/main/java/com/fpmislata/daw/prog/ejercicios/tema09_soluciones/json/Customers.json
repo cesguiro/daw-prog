@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Cliente 1",
+        "nif": "A11111111"
+    },
+    {
+        "name": "Cliente 2",
+        "nif": "B22222222"
+    },
+    {
+        "name": "Cliente 3",
+        "nif": "C33333333"
+    },
+    {
+        "name": "Cliente 4",
+        "nif": "D44444444"
+    }
+]
