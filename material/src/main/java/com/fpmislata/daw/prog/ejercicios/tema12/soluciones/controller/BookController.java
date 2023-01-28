@@ -2,27 +2,16 @@ package com.fpmislata.daw.prog.ejercicios.tema12.soluciones.controller;
 
 import java.util.List;
 
-import com.fpmislata.daw.prog.ejercicios.tema12.soluciones.domain.Book;
-import com.fpmislata.daw.prog.ejercicios.tema12.soluciones.domain.GetBooksService;
-import com.fpmislata.daw.prog.ejercicios.tema12.soluciones.domain.GetBooksUseCase;
+import com.fpmislata.daw.prog.ejercicios.tema12.soluciones.business.entity.Book;
+import com.fpmislata.daw.prog.ejercicios.tema12.soluciones.business.service.BookService;
+import com.fpmislata.daw.prog.ejercicios.tema12.soluciones.business.service.impl.BooksServiceImpl;
 
 public class BookController {
 
-    private GetBooksUseCase service;
+    private BookService service = new BooksServiceImpl();
 
-    public BookController(GetBooksUseCase service) {
-        this.service = service;
-    }
- 
-    /*public List<Book> findAll() {
-        GetBooksUseCase service = new GetBooksService();
-        return service.get();
-        //return BookController.service.get();
-    }*/
-
-    public List<Book> findAll() {
+     public List<Book> findAll() {
         return this.service.get();
-        //return BookController.service.get();
     }
 
 }

@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.45.1">
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejemplos/tema10/KiaModel.java">
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="4" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="5" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="6" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="10" column="5" severity="error" message="Modificador &apos;private&apos; redundante." source="com.puppycrawl.tools.checkstyle.checks.modifier.RedundantModifierCheck"/>
+<error line="14" column="30" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejemplos/tema10/Kia.java">
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="5" column="14" severity="error" message="La variable &apos;model&apos; debe ser privada y tener métodos de acceso." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="15" column="29" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="16" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="16" column="41" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejemplos/tema10/App.java">
+<error line="3" column="1" severity="error" message="Clases de servicios públicos no deben tener un constructor público o por defecto." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="4" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="5" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="6" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="12" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema09/soluciones/Book.java">
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="3" column="34" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="5" column="25" severity="error" message="El nombre &apos;DISCOUNT&apos; debe coincidir con el patrón &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="10" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="25" column="28" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="26" column="16" severity="error" message="Paréntesis innecesarios alrededor del valor de retorno." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="30" column="29" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="31" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="31" column="33" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="32" column="44" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="33" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="33" column="43" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema09/soluciones/CPU.java">
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema09/soluciones/Clothes.java">
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="3" column="37" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="9" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="10" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="30" column="29" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="31" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="31" column="33" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="32" column="41" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="33" column="43" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="34" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="34" column="44" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="37" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema09/soluciones/Memory.java">
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="17" column="5" severity="error" message="&apos;}&apos; cuenta con más de 1 líneas vacías después." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="19" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema09/soluciones/HD.java">
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="4" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="22" column="29" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="23" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="23" column="20" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="24" column="39" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="25" column="58" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema09/soluciones/Product.java">
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="4" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="7" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="22" column="29" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="23" column="29" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="24" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="24" column="35" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema09/soluciones/Computer.java">
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="3" column="38" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="5" column="16" severity="error" message="El nombre &apos;hard_disk&apos; debe coincidir con el patrón &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="9" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="9" column="45" severity="error" message="El nombre &apos;hard_disk&apos; debe coincidir con el patrón &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ParameterNameCheck"/>
+<error line="15" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="20" column="30" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="24" column="24" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="30" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="30" column="33" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="31" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="31" column="53" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="32" column="41" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="33" column="34" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema09/soluciones/App.java">
+<error line="6" column="1" severity="error" message="Clases de servicios públicos no deben tener un constructor público o por defecto." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="6" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="7" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="9" column="5" severity="error" message="&apos;METHOD_DEF&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="9" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="10" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="11" column="37" severity="error" message="&apos;12.35f&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="12" column="37" severity="error" message="&apos;25.99f&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="13" column="34" severity="error" message="&apos;3&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="13" column="37" severity="error" message="&apos;19.50f&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="14" column="40" severity="error" message="&apos;4&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="14" column="43" severity="error" message="&apos;34.00f&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="15" column="40" severity="error" message="&apos;5&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="15" column="43" severity="error" message="&apos;48.75f&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="23" column="12" severity="error" message="El nombre &apos;hard_disk1&apos; debe coincidir con el patrón &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="23" column="43" severity="error" message="&apos;128&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="24" column="37" severity="error" message="&apos;128&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="25" column="52" severity="error" message="&apos;4.2f&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="26" column="42" severity="error" message="&apos;6&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="26" column="45" severity="error" message="&apos;875.00f&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="28" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="30" column="26" severity="error" message="&apos;3&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="40" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="45" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="47" column="13" severity="error" message="&apos;if&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="49" column="20" severity="error" message="&apos;if&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="51" column="20" severity="error" message="&apos;if&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="51" column="31" severity="error" message="&apos;3&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="53" column="13" severity="error" message="&apos;}&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="53" column="14" severity="error" message="&apos;else&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="53" column="19" severity="error" message="&apos;if&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="53" column="32" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema11/soluciones/back/persistence/CustomerDao.java">
+<error line="6" column="1" severity="error" message="Orden incorrecto para el import &apos;com.fpmislata.daw.prog.ejercicios.tema11.soluciones.back.domain.Customer&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="6" column="1" severity="error" message="Separación extra en el grupo de importación antes &apos;com.fpmislata.daw.prog.ejercicios.tema11.soluciones.back.domain.Customer&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="8" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="11" column="20" severity="error" message="La variable &apos;customers&apos; debe ser privada y tener métodos de acceso." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="14" column="5" severity="error" message="&apos;//&apos; cuenta con más de 1 líneas vacías antes." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="15" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="15" column="25" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="18" column="43" severity="error" message="&apos;3&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="19" column="43" severity="error" message="&apos;4&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="24" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="26" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="27" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="28" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="30" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="42" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="49" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="51" column="13" severity="error" message="&apos;if&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema11/soluciones/back/controller/CustomerController.java">
+<error line="5" column="1" severity="error" message="Orden incorrecto para el import &apos;com.fpmislata.daw.prog.ejercicios.tema11.soluciones.back.domain.Customer&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="5" column="1" severity="error" message="Separación extra en el grupo de importación antes &apos;com.fpmislata.daw.prog.ejercicios.tema11.soluciones.back.domain.Customer&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="8" column="1" severity="error" message="Clases de servicios públicos no deben tener un constructor público o por defecto." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="8" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="10" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="13" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="23" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="28" column="9" severity="error" message="&apos;if&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema11/soluciones/back/domain/Customer.java">
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="4" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="9" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="28" column="29" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="29" column="20" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="30" column="28" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="31" column="30" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema11/soluciones/back/domain/CustomerService.java">
+<error line="3" column="8" severity="error" message="import no usado - java.util.ArrayList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="1" severity="error" message="Orden incorrecto para el import &apos;com.fpmislata.daw.prog.ejercicios.tema11.soluciones.back.persistence.CustomerDao&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="6" column="1" severity="error" message="Separación extra en el grupo de importación antes &apos;com.fpmislata.daw.prog.ejercicios.tema11.soluciones.back.persistence.CustomerDao&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="8" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="9" column="17" severity="error" message="La variable &apos;dao&apos; debe ser privada y tener métodos de acceso." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="14" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="15" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema11/soluciones/back/App.java">
+<error line="5" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="5" column="1" severity="error" message="Clases de servicios públicos no deben tener un constructor público o por defecto." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="5" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="6" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="7" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="14" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema11/soluciones/front/Menu.java">
+<error line="3" column="1" severity="error" message="Clases de servicios públicos no deben tener un constructor público o por defecto." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="4" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="5" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="5" column="30" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema11/soluciones/front/App.java">
+<error line="5" column="1" severity="error" message="Clases de servicios públicos no deben tener un constructor público o por defecto." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="5" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="10" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema10/soluciones/HDType.java">
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="4" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="5" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="6" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="7" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema10/soluciones/CPUType.java">
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="4" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="5" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="6" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="7" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="8" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="13" column="5" severity="error" message="Modificador &apos;private&apos; redundante." source="com.puppycrawl.tools.checkstyle.checks.modifier.RedundantModifierCheck"/>
+<error line="13" column="49" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="14" column="20" severity="error" message="&apos;=&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="22" column="31" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema10/soluciones/Book.java">
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="3" column="34" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="5" column="25" severity="error" message="El nombre &apos;DISCOUNT&apos; debe coincidir con el patrón &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="10" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="25" column="28" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="26" column="16" severity="error" message="Paréntesis innecesarios alrededor del valor de retorno." source="com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck"/>
+<error line="30" column="29" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="31" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="31" column="33" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="32" column="44" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="33" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="33" column="43" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema10/soluciones/CPU.java">
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="40" severity="error" message="La línea es mayor de 120 caracteres (encontrado 135)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema10/soluciones/Clothes.java">
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="3" column="37" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="9" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="10" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="30" column="29" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="31" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="31" column="33" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="32" column="41" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="33" column="43" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="34" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="34" column="44" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="37" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema10/soluciones/Memory.java">
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="17" column="5" severity="error" message="&apos;}&apos; cuenta con más de 1 líneas vacías después." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="19" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema10/soluciones/HD.java">
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="4" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="22" column="29" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="23" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="23" column="20" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="24" column="39" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="25" column="58" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema10/soluciones/Product.java">
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="4" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="7" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="22" column="29" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="23" column="29" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="24" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="24" column="35" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema10/soluciones/Computer.java">
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="3" column="38" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="5" column="16" severity="error" message="El nombre &apos;hard_disk&apos; debe coincidir con el patrón &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="9" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="9" column="45" severity="error" message="El nombre &apos;hard_disk&apos; debe coincidir con el patrón &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ParameterNameCheck"/>
+<error line="15" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="20" column="30" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="24" column="24" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="30" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="30" column="33" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="31" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="31" column="53" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="32" column="41" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="33" column="34" severity="error" message="&apos;+&apos; debería estar en una línea nueva." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema10/soluciones/App.java">
+<error line="6" column="1" severity="error" message="Clases de servicios públicos no deben tener un constructor público o por defecto." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="6" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="7" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="9" column="5" severity="error" message="&apos;METHOD_DEF&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="9" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="10" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="11" column="37" severity="error" message="&apos;12.35f&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="12" column="37" severity="error" message="&apos;25.99f&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="13" column="34" severity="error" message="&apos;3&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="13" column="37" severity="error" message="&apos;19.50f&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="14" column="40" severity="error" message="&apos;4&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="14" column="43" severity="error" message="&apos;34.00f&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="15" column="40" severity="error" message="&apos;5&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="15" column="43" severity="error" message="&apos;48.75f&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="23" column="12" severity="error" message="El nombre &apos;hard_disk1&apos; debe coincidir con el patrón &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="23" column="47" severity="error" message="&apos;128&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="24" column="37" severity="error" message="&apos;128&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="27" column="42" severity="error" message="&apos;6&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="27" column="45" severity="error" message="&apos;875.00f&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="29" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="31" column="26" severity="error" message="&apos;3&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="41" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="46" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="48" column="13" severity="error" message="&apos;if&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="50" column="20" severity="error" message="&apos;if&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="52" column="20" severity="error" message="&apos;if&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="52" column="31" severity="error" message="&apos;3&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="54" column="13" severity="error" message="&apos;}&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="54" column="14" severity="error" message="&apos;else&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="54" column="19" severity="error" message="&apos;if&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="54" column="32" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema12/soluciones/persistence/BookRepository.java">
+<error line="5" column="1" severity="error" message="Orden incorrecto para el import &apos;com.fpmislata.daw.prog.ejercicios.tema12.soluciones.business.entity.Book&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="5" column="1" severity="error" message="Separación extra en el grupo de importación antes &apos;com.fpmislata.daw.prog.ejercicios.tema12.soluciones.business.entity.Book&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="7" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="8" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="9" column="5" severity="error" message="Modificador &apos;public&apos; redundante." source="com.puppycrawl.tools.checkstyle.checks.modifier.RedundantModifierCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema12/soluciones/persistence/impl/BookRepositoryEnumImpl.java">
+<error line="5" column="1" severity="error" message="Orden incorrecto para el import &apos;com.fpmislata.daw.prog.ejercicios.tema12.soluciones.business.entity.Book&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="5" column="1" severity="error" message="Separación extra en el grupo de importación antes &apos;com.fpmislata.daw.prog.ejercicios.tema12.soluciones.business.entity.Book&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="9" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="9" column="62" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="25" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema12/soluciones/persistence/impl/BookRepositoryStaticImpl.java">
+<error line="5" column="1" severity="error" message="Orden incorrecto para el import &apos;com.fpmislata.daw.prog.ejercicios.tema12.soluciones.business.entity.Book&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="5" column="1" severity="error" message="Separación extra en el grupo de importación antes &apos;com.fpmislata.daw.prog.ejercicios.tema12.soluciones.business.entity.Book&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="8" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="8" column="64" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="10" column="16" severity="error" message="La variable &apos;books&apos; debe ser privada y tener métodos de acceso." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="20" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema12/soluciones/persistence/BookEnum.java">
+<error line="1" severity="error" message="El fichero no termina con un retorno de carro." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="3" column="21" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="5" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="6" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="7" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="13" column="5" severity="error" message="Modificador &apos;private&apos; redundante." source="com.puppycrawl.tools.checkstyle.checks.modifier.RedundantModifierCheck"/>
+<error line="29" column="5" severity="error" message="&apos;}&apos; cuenta con más de 1 líneas vacías después." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="30" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema12/soluciones/business/service/impl/BooksServiceImpl.java">
+<error line="5" column="1" severity="error" message="Orden incorrecto para el import &apos;com.fpmislata.daw.prog.ejercicios.tema12.soluciones.business.entity.Book&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="5" column="1" severity="error" message="Separación extra en el grupo de importación antes &apos;com.fpmislata.daw.prog.ejercicios.tema12.soluciones.business.entity.Book&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="10" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="10" column="53" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="15" column="5" severity="error" message="&apos;METHOD_DEF&apos; cuenta con más de 1 líneas vacías antes." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="16" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="19" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema12/soluciones/business/service/BookService.java">
+<error line="5" column="1" severity="error" message="Orden incorrecto para el import &apos;com.fpmislata.daw.prog.ejercicios.tema12.soluciones.business.entity.Book&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="5" column="1" severity="error" message="Separación extra en el grupo de importación antes &apos;com.fpmislata.daw.prog.ejercicios.tema12.soluciones.business.entity.Book&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="7" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="8" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="9" column="5" severity="error" message="Modificador &apos;public&apos; redundante." source="com.puppycrawl.tools.checkstyle.checks.modifier.RedundantModifierCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema12/soluciones/business/entity/Book.java">
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="4" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="8" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="9" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema12/soluciones/controller/BookController.java">
+<error line="5" column="1" severity="error" message="Orden incorrecto para el import &apos;com.fpmislata.daw.prog.ejercicios.tema12.soluciones.business.entity.Book&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="5" column="1" severity="error" message="Separación extra en el grupo de importación antes &apos;com.fpmislata.daw.prog.ejercicios.tema12.soluciones.business.entity.Book&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="9" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="13" column="6" severity="error" message="method def modifier en el nivel de sangrado 5 no está al nivel correcto, 4" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema12/soluciones/App.java">
+<error line="5" column="1" severity="error" message="Orden incorrecto para el import &apos;com.fpmislata.daw.prog.ejercicios.tema12.soluciones.business.entity.Book&apos;." source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="5" column="1" severity="error" message="Separación extra en el grupo de importación antes &apos;com.fpmislata.daw.prog.ejercicios.tema12.soluciones.business.entity.Book&apos;" source="com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck"/>
+<error line="8" column="1" severity="error" message="Clases de servicios públicos no deben tener un constructor público o por defecto." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="8" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="9" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="11" column="5" severity="error" message="&apos;METHOD_DEF&apos; debe estar separado de la línea anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="11" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="12" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="13" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema08_III/soluciones/Calculadora02.java">
+<error line="1" column="9" severity="error" message="El nombre &apos;com.fpmislata.daw.prog.ejercicios.tema08_III.soluciones&apos; debe coincidir con el patrón &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Clases de servicios públicos no deben tener un constructor público o por defecto." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="12" column="55" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="17" column="60" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="22" column="56" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema08_III/soluciones/Calculadora01.java">
+<error line="1" column="9" severity="error" message="El nombre &apos;com.fpmislata.daw.prog.ejercicios.tema08_III.soluciones&apos; debe coincidir con el patrón &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Clases de servicios públicos no deben tener un constructor público o por defecto." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="4" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="9" column="55" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="13" column="60" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="17" column="56" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema08_III/soluciones/Ejercicio0304.java">
+<error line="1" column="9" severity="error" message="El nombre &apos;com.fpmislata.daw.prog.ejercicios.tema08_III.soluciones&apos; debe coincidir con el patrón &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Clases de servicios públicos no deben tener un constructor público o por defecto." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="5" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema08_III/soluciones/Singleton.java">
+<error line="1" column="9" severity="error" message="El nombre &apos;com.fpmislata.daw.prog.ejercicios.tema08_III.soluciones&apos; debe coincidir con el patrón &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="3" column="1" severity="error" message="La clase Singleton debería declararse final." source="com.puppycrawl.tools.checkstyle.checks.design.FinalClassCheck"/>
+<error line="4" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="6" column="17" severity="error" message="La variable &apos;contador&apos; se inicializa explicitamente a &apos;0&apos; (valor por defecto para su tipo)." source="com.puppycrawl.tools.checkstyle.checks.coding.ExplicitInitializationCheck"/>
+<error line="8" column="24" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="10" column="23" severity="error" message="&apos;++&apos; está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.NoWhitespaceBeforeCheck"/>
+<error line="13" column="42" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="14" column="19" severity="error" message="&apos;instance&apos; oculta un campo." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="14" column="58" severity="error" message="&apos;?&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="14" column="78" severity="error" message="&apos;:&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="18" column="34" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema08_III/soluciones/Ejercicio05.java">
+<error line="1" column="9" severity="error" message="El nombre &apos;com.fpmislata.daw.prog.ejercicios.tema08_III.soluciones&apos; debe coincidir con el patrón &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Clases de servicios públicos no deben tener un constructor público o por defecto." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="4" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="5" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema08_III/soluciones/Ejercicio02.java">
+<error line="1" column="9" severity="error" message="El nombre &apos;com.fpmislata.daw.prog.ejercicios.tema08_III.soluciones&apos; debe coincidir con el patrón &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Clases de servicios públicos no deben tener un constructor público o por defecto." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="4" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="5" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="6" column="48" severity="error" message="&apos;10&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="52" severity="error" message="&apos;3&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="7" column="49" severity="error" message="&apos;10&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="7" column="53" severity="error" message="&apos;3&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="8" column="54" severity="error" message="&apos;10&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="8" column="58" severity="error" message="&apos;3&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="9" column="50" severity="error" message="&apos;10&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="9" column="54" severity="error" message="&apos;3&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema08_III/soluciones/GeneradorId.java">
+<error line="1" column="9" severity="error" message="El nombre &apos;com.fpmislata.daw.prog.ejercicios.tema08_III.soluciones&apos; debe coincidir con el patrón &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="5" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="5" column="1" severity="error" message="La clase GeneradorId debería declararse final." source="com.puppycrawl.tools.checkstyle.checks.design.FinalClassCheck"/>
+<error line="6" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="9" column="5" severity="error" message="Definición de variable static en orden incorrecto." source="com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck"/>
+<error line="11" column="26" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="15" column="45" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="16" column="62" severity="error" message="&apos;?&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="16" column="84" severity="error" message="&apos;:&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema08_III/soluciones/Ejercicio01.java">
+<error line="1" column="9" severity="error" message="El nombre &apos;com.fpmislata.daw.prog.ejercicios.tema08_III.soluciones&apos; debe coincidir con el patrón &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Clases de servicios públicos no deben tener un constructor público o por defecto." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="4" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="5" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="6" column="48" severity="error" message="&apos;10&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="52" severity="error" message="&apos;3&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="7" column="49" severity="error" message="&apos;10&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="7" column="53" severity="error" message="&apos;3&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="8" column="54" severity="error" message="&apos;10&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="8" column="58" severity="error" message="&apos;3&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="9" column="50" severity="error" message="&apos;10&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="9" column="54" severity="error" message="&apos;3&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema08_I/soluciones/Coche.java">
+<error line="1" column="9" severity="error" message="El nombre &apos;com.fpmislata.daw.prog.ejercicios.tema08_I.soluciones&apos; debe coincidir con el patrón &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="5" severity="error" message="La primera frase debería finalizar con un punto." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+<error line="8" column="5" severity="error" message="Cada declaración de variable debe estar en su línea." source="com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck"/>
+<error line="8" column="19" severity="error" message="La variable &apos;marca&apos; debe ser privada y tener métodos de acceso." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="8" column="26" severity="error" message="La variable &apos;modelo&apos; debe ser privada y tener métodos de acceso." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="8" column="34" severity="error" message="La variable &apos;color&apos; debe ser privada y tener métodos de acceso." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="9" column="5" severity="error" message="Cada declaración de variable debe estar en su línea." source="com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck"/>
+<error line="9" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="9" column="16" severity="error" message="La variable &apos;numeroBastidor&apos; debe ser privada y tener métodos de acceso." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="9" column="32" severity="error" message="La variable &apos;velocidad&apos; debe ser privada y tener métodos de acceso." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="9" column="32" severity="error" message="La variable &apos;velocidad&apos; se inicializa explicitamente a &apos;0&apos; (valor por defecto para su tipo)." source="com.puppycrawl.tools.checkstyle.checks.coding.ExplicitInitializationCheck"/>
+<error line="12" severity="error" message="La primera frase debería finalizar con un punto." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+<error line="17" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="24" severity="error" message="La primera frase debería finalizar con un punto." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+<error line="28" column="22" severity="error" message="&apos;5&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="29" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="32" column="22" severity="error" message="&apos;5&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="35" severity="error" message="La primera frase debería finalizar con un punto." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+<error line="38" column="5" severity="error" message="Todos los métodos sobrecargados deben colocarse uno al lado del otro. Colocar métodos no sobrecargados entre métodos sobrecargados con el mismo tipo es una violación. Método sobrecargado anterior ubicado en la línea &apos; 27 &apos;." source="com.puppycrawl.tools.checkstyle.checks.coding.OverloadMethodsDeclarationOrderCheck"/>
+<error line="42" column="5" severity="error" message="Todos los métodos sobrecargados deben colocarse uno al lado del otro. Colocar métodos no sobrecargados entre métodos sobrecargados con el mismo tipo es una violación. Método sobrecargado anterior ubicado en la línea &apos; 31 &apos;." source="com.puppycrawl.tools.checkstyle.checks.coding.OverloadMethodsDeclarationOrderCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema08_I/soluciones/Flota.java">
+<error line="1" column="9" severity="error" message="El nombre &apos;com.fpmislata.daw.prog.ejercicios.tema08_I.soluciones&apos; debe coincidir con el patrón &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="6" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="7" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="8" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="8" column="24" severity="error" message="La variable &apos;coches&apos; debe ser privada y tener métodos de acceso." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="10" column="42" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="23" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="23" column="53" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="33" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="43" column="29" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="49" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="52" severity="error" message="La primera frase debería finalizar con un punto." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema08_I/soluciones/Conductor.java">
+<error line="1" column="9" severity="error" message="El nombre &apos;com.fpmislata.daw.prog.ejercicios.tema08_I.soluciones&apos; debe coincidir con el patrón &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="4" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="5" column="12" severity="error" message="La variable &apos;nombre&apos; debe ser privada y tener métodos de acceso." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="6" column="12" severity="error" message="La variable &apos;dni&apos; debe ser privada y tener métodos de acceso." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="7" column="11" severity="error" message="La variable &apos;asignado&apos; debe ser privada y tener métodos de acceso." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="10" severity="error" message="La primera frase debería finalizar con un punto." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+<error line="10" column="5" severity="error" message="&apos;/*&apos; cuenta con más de 1 líneas vacías antes." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="12" column="8" severity="error" message="Etiqueta @param no usada en &apos;coche&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="16" column="9" severity="error" message="&apos;if&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="21" severity="error" message="La primera frase debería finalizar con un punto." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+<error line="38" column="5" severity="error" message="&apos;/*&apos; cuenta con más de 1 líneas vacías antes." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="51" severity="error" message="La primera frase debería finalizar con un punto." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema08_I/soluciones/App.java">
+<error line="1" severity="error" message="El fichero no termina con un retorno de carro." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" column="9" severity="error" message="El nombre &apos;com.fpmislata.daw.prog.ejercicios.tema08_I.soluciones&apos; debe coincidir con el patrón &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="5" column="1" severity="error" message="Clases de servicios públicos no deben tener un constructor público o por defecto." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="5" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="6" column="5" severity="error" message="El tamaño del método main es 187 líneas (máximas permitidas 150)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="6" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="10" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="14" column="32" severity="error" message="&apos;123456&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="17" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="51" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="60" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="67" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="79" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="90" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="100" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="107" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="112" column="33" severity="error" message="&apos;3&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="117" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="141" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="148" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="168" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="171" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="172" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema08_II/soluciones/Coche.java">
+<error line="1" column="9" severity="error" message="El nombre &apos;com.fpmislata.daw.prog.ejercicios.tema08_II.soluciones&apos; debe coincidir con el patrón &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="5" column="5" severity="error" message="Cada declaración de variable debe estar en su línea." source="com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck"/>
+<error line="6" column="5" severity="error" message="Cada declaración de variable debe estar en su línea." source="com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck"/>
+<error line="6" column="33" severity="error" message="La variable &apos;velocidad&apos; se inicializa explicitamente a &apos;0&apos; (valor por defecto para su tipo)." source="com.puppycrawl.tools.checkstyle.checks.coding.ExplicitInitializationCheck"/>
+<error line="11" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="21" column="12" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="26" column="5" severity="error" message="&apos;METHOD_DEF&apos; cuenta con más de 1 líneas vacías antes." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="26" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="27" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="35" column="27" severity="error" message="&apos;5&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="36" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="39" column="27" severity="error" message="&apos;5&apos; es un número mágico." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="42" column="5" severity="error" message="Todos los métodos sobrecargados deben colocarse uno al lado del otro. Colocar métodos no sobrecargados entre métodos sobrecargados con el mismo tipo es una violación. Método sobrecargado anterior ubicado en la línea &apos; 34 &apos;." source="com.puppycrawl.tools.checkstyle.checks.coding.OverloadMethodsDeclarationOrderCheck"/>
+<error line="46" column="5" severity="error" message="Todos los métodos sobrecargados deben colocarse uno al lado del otro. Colocar métodos no sobrecargados entre métodos sobrecargados con el mismo tipo es una violación. Método sobrecargado anterior ubicado en la línea &apos; 38 &apos;." source="com.puppycrawl.tools.checkstyle.checks.coding.OverloadMethodsDeclarationOrderCheck"/>
+<error line="50" severity="error" message="La primera frase debería finalizar con un punto." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema08_II/soluciones/Flota.java">
+<error line="1" column="9" severity="error" message="El nombre &apos;com.fpmislata.daw.prog.ejercicios.tema08_II.soluciones&apos; debe coincidir con el patrón &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="6" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="7" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="8" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="8" column="24" severity="error" message="La variable &apos;coches&apos; debe ser privada y tener métodos de acceso." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="10" column="42" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="14" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="14" column="53" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="24" column="29" severity="error" message="&apos;{&apos; no está precedido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="30" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="33" severity="error" message="La primera frase debería finalizar con un punto." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema08_II/soluciones/Conductor.java">
+<error line="1" column="9" severity="error" message="El nombre &apos;com.fpmislata.daw.prog.ejercicios.tema08_II.soluciones&apos; debe coincidir con el patrón &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="4" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="10" column="5" severity="error" message="&apos;CTOR_DEF&apos; cuenta con más de 1 líneas vacías antes." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="10" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="16" severity="error" message="La primera frase debería finalizar con un punto." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+<error line="18" column="8" severity="error" message="Etiqueta @param no usada en &apos;coche&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="22" column="9" severity="error" message="&apos;if&apos; no está seguido de espacio en blanco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="27" severity="error" message="La primera frase debería finalizar con un punto." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+<error line="32" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="44" column="5" severity="error" message="&apos;/*&apos; cuenta con más de 1 líneas vacías antes." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="57" severity="error" message="La primera frase debería finalizar con un punto." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/home/cesar/Ciclos/daw-prog/material/src/main/java/com/fpmislata/daw/prog/ejercicios/tema08_II/soluciones/App.java">
+<error line="1" column="9" severity="error" message="El nombre &apos;com.fpmislata.daw.prog.ejercicios.tema08_II.soluciones&apos; debe coincidir con el patrón &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
+<error line="3" column="1" severity="error" message="Clases de servicios públicos no deben tener un constructor público o por defecto." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+<error line="3" column="1" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="4" column="5" severity="error" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+</checkstyle>
