@@ -6,7 +6,7 @@ import com.fpmislata.daw.prog.ejercicios.tema12.soluciones.business.entity.Book;
 import com.fpmislata.daw.prog.ejercicios.tema12.soluciones.persistence.BookEnum;
 import com.fpmislata.daw.prog.ejercicios.tema12.soluciones.persistence.BookRepository;
 
-public class BookRepositoryEnumImpl implements BookRepository{
+public class EnumBookRepositoryImpl implements BookRepository{
 
     @Override
     public List<Book> all() {
@@ -15,9 +15,9 @@ public class BookRepositoryEnumImpl implements BookRepository{
         BookEnum book3 = BookEnum.BOOK3;
 
         List<Book> books = List.of(
-            new Book(book1.getId(), book1.getTitle(), book1.getAutor()),
-            new Book(book2.getId(), book2.getTitle(), book2.getAutor()),
-            new Book(book3.getId(), book3.getTitle(), book3.getAutor())
+            new Book(book1.getId(), book1.getTitle(), book1.getAuthor()),
+            new Book(book2.getId(), book2.getTitle(), book2.getAuthor()),
+            new Book(book3.getId(), book3.getTitle(), book3.getAuthor())
         );
 
         return books;

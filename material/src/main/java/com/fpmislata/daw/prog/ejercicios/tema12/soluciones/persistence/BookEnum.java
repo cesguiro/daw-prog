@@ -24,7 +24,7 @@ public enum BookEnum{
         return this.title;
     }
 
-    public String getAutor() {
+    public String getAuthor() {
         return this.autor;
     }
     

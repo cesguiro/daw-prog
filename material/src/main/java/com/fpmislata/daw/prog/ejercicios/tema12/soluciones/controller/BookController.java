@@ -10,8 +10,8 @@ public class BookController {
 
     private BookService service = new BooksServiceImpl();
 
-     public List<Book> findAll() {
-        return this.service.get();
+     public List<Book> getAll() {
+        return this.service.getAll();
     }
 
 }

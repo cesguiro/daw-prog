@@ -10,7 +10,7 @@ public class App {
     private static BookController controller = new BookController();
     public static void main(String[] args) {
         
-        List<Book> books = App.controller.findAll();
+        List<Book> books = App.controller.getAll();
 
         System.out.println(books);
     }

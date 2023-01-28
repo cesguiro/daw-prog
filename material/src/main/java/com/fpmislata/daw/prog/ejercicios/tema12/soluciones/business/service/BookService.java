@@ -6,5 +6,5 @@ import com.fpmislata.daw.prog.ejercicios.tema12.soluciones.business.entity.Book;
 
 public interface BookService {
     
-    public List<Book> get();
+    public List<Book> getAll();
 }

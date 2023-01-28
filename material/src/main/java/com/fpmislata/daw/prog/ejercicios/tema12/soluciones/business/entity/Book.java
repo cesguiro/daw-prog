@@ -4,12 +4,12 @@ public class Book {
     
     private int id;
     private String title;
-    private String autor;
+    private String author;
     
-    public Book(int id, String title, String autor) {
+    public Book(int id, String title, String author) {
         this.id = id;
         this.title = title;
-        this.autor = autor;
+        this.author = author;
     }
 
     public int getId() {
@@ -20,13 +20,13 @@ public class Book {
         return title;
     }
 
-    public String getAutor() {
-        return autor;
+    public String getAuthor() {
+        return author;
     }
 
     @Override
     public String toString() {
-        return "Book {id: " + this.id + ", título: " + this.title + ", autor: " + this.autor + "}";
+        return "Book {id: " + this.id + ", título: " + this.title + ", autor: " + this.author + "}";
     }
 
 }
