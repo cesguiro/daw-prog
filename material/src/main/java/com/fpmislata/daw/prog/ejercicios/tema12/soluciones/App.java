@@ -7,10 +7,9 @@ import com.fpmislata.daw.prog.ejercicios.tema12.soluciones.controller.BookContro
 
 public class App {
     
-    private static BookController controller;
+    private static BookController controller = new BookController();
     public static void main(String[] args) {
         
-        App.controller = new BookController();        
         List<Book> books = App.controller.findAll();
 
         System.out.println(books);
