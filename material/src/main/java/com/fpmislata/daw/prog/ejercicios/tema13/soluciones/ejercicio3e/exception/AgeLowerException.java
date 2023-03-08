@@ -5,6 +5,12 @@ public class AgeLowerException extends RuntimeException{
     private String message = "Tienes que tener al menos 18 años para pasar";
 
     public String getMessage() {
+        try {
+            
+        } catch (Exception e) {
+            throw new RuntimeException();
+        }
         return message;
     }
+
 }
