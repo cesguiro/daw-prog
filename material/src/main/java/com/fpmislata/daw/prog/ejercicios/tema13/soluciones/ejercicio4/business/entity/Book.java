@@ -1,22 +1,24 @@
 package com.fpmislata.daw.prog.ejercicios.tema13.soluciones.ejercicio4.business.entity;
 
+//package com.fpmislata.daw.prog.ejercicios.tema13.soluciones.ejercicio4.business.entity;
+
 import java.util.List;
 
 public class Book {
 
     private int id;
     private String title;
-    private List<Author> authors;
+    private int author_id;
 
-    public Book(String title, List<Author> authors) {
+    public Book(String title, int author_id) {
         this.title = title;
-        this.authors = authors;
+        this.author_id = author_id;
     }
 
-    public Book(int id, String title, List<Author> authors) {
+    public Book(int id, String title, int author_id) {
         this.id = id;
         this.title = title;
-        this.authors = authors;
+        this.author_id = author_id;
     }
 
     public int getId() {
@@ -27,13 +29,17 @@ public class Book {
         return title;
     }
 
-    public List<Author> getAuthors() {
-        return authors;
+    public int getAuthor_id() {
+        return author_id;
     }
 
     @Override
     public String toString() {
-        return "Book [id=" + id + ", title=" + title + ", authors=" + authors + "]";
+        return "Book [id=" + id + ", title=" + title + ", author_id=" + author_id + "]";
+    }
+
+    public void setId(int id) {
+        this.id = id;
     }
 
 }
