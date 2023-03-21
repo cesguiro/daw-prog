@@ -1,4 +1,4 @@
-package com.fpmislata.daw.prog.ejemplos.tema14;
+package com.fpmislata.daw.prog.ejercicios.tema14.soluciones;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -79,3 +79,4 @@ public class DBUtil {
         }
     }    
 }
+
