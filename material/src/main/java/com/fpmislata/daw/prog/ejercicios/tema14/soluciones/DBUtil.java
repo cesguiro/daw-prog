@@ -12,7 +12,7 @@ public class DBUtil {
     public static Connection open() {
         try {
             Connection connection = DriverManager
-                .getConnection("jdbc:mariadb://localhost:3306/imdb?user=root&password=admin");
+                .getConnection("jdbc:mariadb://localhost:3306/imdb?user=root&password=root");
             return connection;
         } catch (SQLException e) {
             throw new RuntimeException();
