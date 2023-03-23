@@ -108,7 +108,7 @@ public class App {
             }*/
 
             //Películas de un director
-            String sql = "SELECT m.* FROM movies m INNER JOIN directors d ON m.director_id = d.imdb_id where d.id = 2";
+            /*String sql = "SELECT m.* FROM movies m INNER JOIN directors d ON m.director_id = d.imdb_id where d.id = 2";
             List<Object> params = List.of(10);
             ResultSet resultSet = DBUtil.select(connection, sql, params);
             while (resultSet.next()) {
@@ -117,9 +117,19 @@ public class App {
                     "\nAño: " + resultSet.getInt("year") + 
                     "\nDuración: " + resultSet.getInt("runtime") + " min\n"
                     );
-            }
+            }*/
 
             //Actores de una película
+            String sql = "SELECT a.* FROM actors a INNER JOIN actors_movies ad ON a.imdb_id = ad.actor_id INNER JOIN movies m ON ad.movie_id = m.imdb_id where m.id = 2";
+            List<Object> params = List.of(10);
+            ResultSet resultSet = DBUtil.select(connection, sql, params);
+            while (resultSet.next()) {
+                System.out.println(
+                    "Nombre: " + resultSet.getString("name") + 
+                    "\nNacimiento: " + resultSet.getInt("birthYear") + 
+                    "\nMuerte: " + resultSet.getInt("deathYear") + "\n"
+                    );
+            }
             
         } catch (Exception e) {
             System.out.println(e.getMessage());

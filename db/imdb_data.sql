@@ -2368,2410 +2368,988 @@ INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0012349','nm0074788','["Professor Guido","Night Shelter Keeper"]'),
 	 ('tt0012349','nm0080930','["Orphan Asylum Driver"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0015324','nm0504380','N'),
 	 ('tt0015324','nm0000036','["Projectionist","Sherlock, Jr."]'),
 	 ('tt0015324','nm0570230','["The Girl"]'),
 	 ('tt0015324','nm0444172','["The Girl''s Father","Man on Film Screen"]'),
 	 ('tt0015324','nm0175068','["The Hired Man","The Butler"]'),
-	 ('tt0015324','nm0369841','N'),
-	 ('tt0015324','nm0593477','N'),
-	 ('tt0015324','nm0115669','N'),
-	 ('tt0015324','nm3816287','N'),
-	 ('tt0015324','nm0396327','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0015864','nm1027682','["Eskimo Child"]'),
 	 ('tt0015864','nm0000122','["The Lone Prospector"]'),
 	 ('tt0015864','nm0841501','["Big Jim McKay"]'),
 	 ('tt0015864','nm0615306','["Black Larsen"]'),
 	 ('tt0015864','nm0074788','["Hank Curtis"]'),
-	 ('tt0015864','nm0675356','N'),
-	 ('tt0015864','nm0005906','N'),
-	 ('tt0015864','nm0906618','["Jack Cameron"]'),
-	 ('tt0015864','nm0354913','["Georgia"]'),
-	 ('tt0015864','nm1033900','["Man in Dance Hall"]');
+	 ('tt0015864','nm0906618','["Jack Cameron"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0017136','nm0403288','N'),
+	 ('tt0015864','nm0354913','["Georgia"]'),
+	 ('tt0015864','nm1033900','["Man in Dance Hall"]'),
 	 ('tt0017136','nm0375609','["Maria","Maschinenmensch","The Machine Man"]'),
 	 ('tt0017136','nm0002154','["Johann (Joh) Fredersen"]'),
 	 ('tt0017136','nm0297054','["Freder Fredersen - Joh Fredersens Sohn"]'),
 	 ('tt0017136','nm0459030','["Erfinder C.A. Rotwang","The Inventor"]'),
-	 ('tt0017136','nm0000485','N'),
-	 ('tt0017136','nm0902376','N'),
-	 ('tt0017136','nm0690143','N'),
-	 ('tt0017136','nm0923118','N'),
-	 ('tt0017136','nm2111404','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0019254','nm0266029','["Jeanne d''Arc"]'),
 	 ('tt0019254','nm0798564','["Évêque Pierre Cauchon (Bishop Pierre Cauchon)"]'),
 	 ('tt0019254','nm0075551','["Jean d''Estivet"]'),
-	 ('tt0019254','nm0776914','["Nicolas Loyseleur"]'),
-	 ('tt0019254','nm0003433','N'),
-	 ('tt0019254','nm0217865','N'),
-	 ('tt0019254','nm1224245','N'),
-	 ('tt0019254','nm0773138','N'),
-	 ('tt0019254','nm0005789','N'),
-	 ('tt0021749','nm0000122','["A Tramp"]');
+	 ('tt0019254','nm0776914','["Nicolas Loyseleur"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0021749','nm0000122','["A Tramp"]'),
 	 ('tt0021749','nm0156039','["A Blind Girl"]'),
 	 ('tt0021749','nm5681967','["The Blind Girl''s Grandmother"]'),
 	 ('tt0021749','nm0616729','["An Eccentric Millionaire"]'),
-	 ('tt0021749','nm0139714','N'),
-	 ('tt0021749','nm0188357','N'),
-	 ('tt0021749','nm0689661','N'),
-	 ('tt0021749','nm0005906','N'),
 	 ('tt0022100','nm0000048','["Hans Beckert"]'),
 	 ('tt0022100','nm0927145','["Frau Beckmann"]'),
-	 ('tt0022100','nm0484737','["Elsie Beckmann"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0022100','nm0484737','["Elsie Beckmann"]'),
 	 ('tt0022100','nm0921532','["Inspector Karl Lohmann"]'),
-	 ('tt0022100','nm0000485','N'),
-	 ('tt0022100','nm0902376','N'),
-	 ('tt0022100','nm0414825','N'),
-	 ('tt0022100','nm0005922','N'),
-	 ('tt0022100','nm0266239','N'),
 	 ('tt0025316','nm0858977','["King Westley"]'),
-	 ('tt0025316','nm0000022','["Peter Warne"]'),
-	 ('tt0025316','nm0001055','["Ellie Andrews"]'),
-	 ('tt0025316','nm0175369','["Alexander Andrews"]');
+	 ('tt0025316','nm0000022','["Peter Warne"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0025316','nm0001055','["Ellie Andrews"]'),
+	 ('tt0025316','nm0175369','["Alexander Andrews"]'),
 	 ('tt0025316','nm0439850','["Oscar Shapeley"]'),
-	 ('tt0025316','nm0001008','N'),
-	 ('tt0025316','nm0728307','N'),
-	 ('tt0025316','nm0011343','N'),
-	 ('tt0025316','nm0907900','N'),
-	 ('tt0025316','nm0369879','N'),
 	 ('tt0027977','nm0305087','["President of the Electro Steel Corp."]'),
 	 ('tt0027977','nm0000122','["A Factory Worker"]'),
 	 ('tt0027977','nm0002104','["A Gamin"]'),
-	 ('tt0027977','nm0074788','["Cafe Proprietor"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0027977','nm0074788','["Cafe Proprietor"]'),
 	 ('tt0027977','nm0761866','["Big Bill"]'),
-	 ('tt0027977','nm0005806','N'),
-	 ('tt0027977','nm0005906','N'),
 	 ('tt0027977','nm0174682','["Mechanic"]'),
-	 ('tt0027977','nm0003424','["Burglar"]'),
+	 ('tt0027977','nm0003424','["Burglar"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0027977','nm0090008','["Gamin''s Father"]'),
-	 ('tt0031679','nm0907900','N'),
 	 ('tt0031679','nm0000071','["Jefferson Smith"]'),
 	 ('tt0031679','nm0000795','["Saunders"]'),
-	 ('tt0031679','nm0001647','["Senator Joseph Paine"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0031679','nm0001647','["Senator Joseph Paine"]'),
 	 ('tt0031679','nm0036427','["Jim Taylor"]'),
-	 ('tt0031679','nm0001008','N'),
-	 ('tt0031679','nm0118227','N'),
-	 ('tt0031679','nm0287931','N'),
-	 ('tt0031679','nm0175333','N'),
-	 ('tt0031679','nm0006323','N'),
-	 ('tt0032551','nm0801184','N'),
 	 ('tt0032551','nm0000020','["Tom Joad"]'),
 	 ('tt0032551','nm0002034','["Ma Joad"]'),
-	 ('tt0032551','nm0001017','["Jim Casy"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0032551','nm0001017','["Jim Casy"]'),
 	 ('tt0032551','nm0335788','["Grandpa Joad"]'),
-	 ('tt0032551','nm0000406','N'),
-	 ('tt0032551','nm0425913','N'),
-	 ('tt0032551','nm0825705','N'),
-	 ('tt0032551','nm0953123','N'),
-	 ('tt0032551','nm0005904','N'),
-	 ('tt0032553','nm0354916','["Madame Napaloni"]'),
+	 ('tt0032553','nm0354916','["Madame Napaloni"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0032553','nm0000122','["Hynkel - Dictator of Tomania","A Jewish Barber"]'),
 	 ('tt0032553','nm0002104','["Hannah"]'),
-	 ('tt0032553','nm0642988','["Napaloni - Dictator of Bacteria"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0032553','nm0642988','["Napaloni - Dictator of Bacteria"]'),
 	 ('tt0032553','nm0306786','["Schultz"]'),
-	 ('tt0032553','nm0835365','N'),
-	 ('tt0032553','nm0005906','N'),
-	 ('tt0032553','nm0630119','N'),
 	 ('tt0032553','nm0199787','["Garbitsch"]'),
 	 ('tt0032553','nm0317970','["Herring"]'),
-	 ('tt0032976','nm0389580','N'),
 	 ('tt0032976','nm0000059','["''Maxim'' de Winter"]'),
 	 ('tt0032976','nm0000021','["Mrs. de Winter"]'),
-	 ('tt0032976','nm0001695','["Jack Favell"]');
+	 ('tt0032976','nm0001695','["Jack Favell"]'),
+	 ('tt0032976','nm0000752','["Mrs. Danvers"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0032976','nm0000752','["Mrs. Danvers"]'),
-	 ('tt0032976','nm0000033','N'),
-	 ('tt0032976','nm0238898','N'),
-	 ('tt0032976','nm0792845','N'),
-	 ('tt0032976','nm0365661','N'),
-	 ('tt0032976','nm0531878','N'),
-	 ('tt0033467','nm0005904','N'),
 	 ('tt0033467','nm0000080','["Kane"]'),
 	 ('tt0033467','nm0001072','["Jedediah Leland","Screening Room Reporter"]'),
-	 ('tt0033467','nm0173827','["Susan Alexander Kane"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0033467','nm0173827','["Susan Alexander Kane"]'),
 	 ('tt0033467','nm0001547','["Mary Kane"]'),
-	 ('tt0033467','nm0542534','N'),
-	 ('tt0033467','nm0002144','N'),
-	 ('tt0033467','nm0219670','N'),
-	 ('tt0033467','nm0448809','N'),
-	 ('tt0033467','nm0002136','N'),
-	 ('tt0034583','nm0019706','N'),
 	 ('tt0034583','nm0000007','["Rick Blaine"]'),
 	 ('tt0034583','nm0000006','["Ilsa Lund"]'),
-	 ('tt0034583','nm0002134','["Victor Laszlo"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0034583','nm0002134','["Victor Laszlo"]'),
 	 ('tt0034583','nm0001647','["Captain Louis Renault"]'),
-	 ('tt0034583','nm0002031','N'),
-	 ('tt0034583','nm0258493','N'),
-	 ('tt0034583','nm0258525','N'),
-	 ('tt0034583','nm0462321','N'),
-	 ('tt0034583','nm0122417','N'),
-	 ('tt0035446','nm0817929','N'),
 	 ('tt0035446','nm0001479','["Maria Tura"]'),
-	 ('tt0035446','nm0000912','["Joseph Tura"]'),
-	 ('tt0035446','nm0821041','["Lieutenant Stanislav Sobinski"]');
+	 ('tt0035446','nm0000912','["Joseph Tura"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0035446','nm0821041','["Lieutenant Stanislav Sobinski"]'),
 	 ('tt0035446','nm0107795','["Greenberg"]'),
-	 ('tt0035446','nm0523932','N'),
-	 ('tt0035446','nm0501872','N'),
-	 ('tt0035446','nm0562372','N'),
-	 ('tt0035446','nm0006128','N'),
-	 ('tt0035446','nm0005789','N'),
 	 ('tt0036775','nm0534045','["Walter Neff"]'),
 	 ('tt0036775','nm0001766','["Phyllis Dietrichson"]'),
 	 ('tt0036775','nm0000064','["Barton Keyes"]'),
-	 ('tt0036775','nm0056477','["Nino Zachetti"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0036775','nm0000697','N'),
-	 ('tt0036775','nm0151452','N'),
-	 ('tt0036775','nm0128906','N'),
-	 ('tt0036775','nm0000067','N'),
-	 ('tt0036775','nm0005870','N'),
-	 ('tt0036868','nm0005904','N'),
+	 ('tt0036775','nm0056477','["Nino Zachetti"]'),
 	 ('tt0036868','nm0001485','["Milly Stephenson"]'),
 	 ('tt0036868','nm0000763','["Fred Derry"]'),
 	 ('tt0036868','nm0545298','["Al Stephenson"]'),
 	 ('tt0036868','nm0942863','["Peggy Stephenson"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0036868','nm0943758','N'),
-	 ('tt0036868','nm0792845','N'),
-	 ('tt0036868','nm0437969','N'),
-	 ('tt0036868','nm0326418','N'),
-	 ('tt0036868','nm0006087','N'),
-	 ('tt0038650','nm0933858','N'),
 	 ('tt0038650','nm0000071','["George Bailey"]'),
 	 ('tt0038650','nm0001656','["Mary Hatch"]'),
 	 ('tt0038650','nm0000859','["Mr. Potter"]'),
-	 ('tt0038650','nm0593775','["Uncle Billy"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0038650','nm0001008','N'),
-	 ('tt0038650','nm0329304','N'),
-	 ('tt0038650','nm0352443','N'),
-	 ('tt0038650','nm0842485','N'),
-	 ('tt0038650','nm0827821','N'),
-	 ('tt0040522','nm0290000','N'),
+	 ('tt0038650','nm0593775','["Uncle Billy"]'),
 	 ('tt0040522','nm0536009','["Antonio"]'),
 	 ('tt0040522','nm0821543','["Bruno"]'),
 	 ('tt0040522','nm0136794','["Maria"]'),
-	 ('tt0040522','nm0022821','["The Charitable Lady"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0040522','nm0001120','N'),
-	 ('tt0040522','nm0953790','N'),
-	 ('tt0040522','nm0059030','N'),
-	 ('tt0040522','nm0080755','N'),
-	 ('tt0040522','nm0147599','N'),
-	 ('tt0040897','nm0548929','N'),
+	 ('tt0040522','nm0022821','["The Charitable Lady"]'),
 	 ('tt0040897','nm0000007','["Fred C. Dobbs"]'),
-	 ('tt0040897','nm0404158','["Howard"]'),
-	 ('tt0040897','nm0392529','["Curtin"]'),
-	 ('tt0040897','nm0071636','["Cody"]');
+	 ('tt0040897','nm0404158','["Howard"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0040897','nm0001379','N'),
-	 ('tt0040897','nm0871252','N'),
-	 ('tt0040897','nm0087533','N'),
-	 ('tt0040897','nm0000070','N'),
-	 ('tt0040897','nm0005792','N'),
+	 ('tt0040897','nm0392529','["Curtin"]'),
+	 ('tt0040897','nm0071636','["Cody"]'),
 	 ('tt0041959','nm0000080','["Harry Lime"]'),
 	 ('tt0041959','nm0001072','["Holly Martins"]'),
 	 ('tt0041959','nm0885098','["Anna Schmidt"]'),
 	 ('tt0041959','nm0002145','["Maj. Calloway"]'),
-	 ('tt0041959','nm0715346','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0041959','nm0001294','N'),
-	 ('tt0041959','nm0466099','N'),
-	 ('tt0041959','nm0005761','N'),
-	 ('tt0041959','nm0353091','N'),
-	 ('tt0042192','nm0572492','N'),
 	 ('tt0042192','nm0000012','["Margo"]'),
 	 ('tt0042192','nm0000879','["Eve"]'),
 	 ('tt0042192','nm0001695','["Addison DeWitt"]'),
-	 ('tt0042192','nm0002141','["Karen"]'),
-	 ('tt0042192','nm0000581','N');
+	 ('tt0042192','nm0002141','["Karen"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0042192','nm0650581','N'),
-	 ('tt0042192','nm0953123','N'),
-	 ('tt0042192','nm0000055','N'),
-	 ('tt0042192','nm0005762','N'),
-	 ('tt0042876','nm0594335','N'),
 	 ('tt0042876','nm0001536','["Tajômaru"]'),
 	 ('tt0042876','nm0477553','["Masako Kanazawa"]'),
 	 ('tt0042876','nm0605270','["Takehiro Kanazawa"]'),
 	 ('tt0042876','nm0793766','["Woodcutter"]'),
-	 ('tt0042876','nm0000041','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0042876','nm0015611','N'),
-	 ('tt0042876','nm0368074','N'),
-	 ('tt0042876','nm0423122','N'),
-	 ('tt0042876','nm0370593','N'),
-	 ('tt0043014','nm0772834','N'),
 	 ('tt0043014','nm0000034','["Joe Gillis"]'),
 	 ('tt0043014','nm0841797','["Norma Desmond"]'),
 	 ('tt0043014','nm0002233','["Max Von Mayerling"]'),
 	 ('tt0043014','nm0647970','["Betty Schaefer"]'),
-	 ('tt0043014','nm0000697','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0043014','nm0102818','N'),
-	 ('tt0043014','nm0551261','N'),
-	 ('tt0043014','nm0000077','N'),
-	 ('tt0043014','nm0005870','N'),
-	 ('tt0044741','nm0620014','N'),
 	 ('tt0044741','nm0793766','["Kanji Watanabe"]'),
-	 ('tt0044741','nm0437520','["Mitsuo Watanabe, Kanji''s son"]'),
+	 ('tt0044741','nm0437520','["Mitsuo Watanabe, Kanji''s son"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0044741','nm0385443','["Kimura"]'),
 	 ('tt0044741','nm0848984','["Sakai"]'),
-	 ('tt0044741','nm0000041','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0044741','nm0368074','N'),
-	 ('tt0044741','nm0644823','N'),
-	 ('tt0044741','nm0609404','N'),
-	 ('tt0044741','nm0370593','N'),
-	 ('tt0046268','nm0346537','N'),
 	 ('tt0046268','nm0598971','["Mario Livi"]'),
 	 ('tt0046268','nm0889024','["M. Jo"]'),
 	 ('tt0046268','nm0886870','["Bimba"]'),
 	 ('tt0046268','nm0525793','["Luigi"]'),
-	 ('tt0046268','nm0167241','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0046268','nm1064118','N'),
-	 ('tt0046268','nm0350823','N'),
-	 ('tt0046268','nm0005952','N'),
-	 ('tt0046268','nm0005901','N'),
-	 ('tt0046438','nm0357310','N'),
 	 ('tt0046438','nm0753479','["Shukichi Hirayama"]'),
 	 ('tt0046438','nm0383261','["Tomi Hirayama"]'),
 	 ('tt0046438','nm0945522','["Koichi Hirayama"]'),
-	 ('tt0046438','nm0361697','["Noriko Hirayama"]'),
-	 ('tt0046438','nm0654868','N');
+	 ('tt0046438','nm0361697','["Noriko Hirayama"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0046438','nm0633792','N'),
-	 ('tt0046438','nm0945499','N'),
-	 ('tt0046438','nm0756907','N'),
-	 ('tt0046438','nm0040916','N'),
 	 ('tt0046912','nm0001537','["Tony Wendice"]'),
 	 ('tt0046912','nm0000038','["Margot Wendice"]'),
 	 ('tt0046912','nm0191950','["Mark Halliday"]'),
 	 ('tt0046912','nm0002369','["Chief Inspector Hubbard"]'),
-	 ('tt0046912','nm0000033','N'),
-	 ('tt0046912','nm0461425','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0046912','nm0006323','N'),
-	 ('tt0046912','nm0122079','N'),
-	 ('tt0046912','nm0270458','N'),
-	 ('tt0047296','nm0077086','N'),
 	 ('tt0047296','nm0000008','["Terry Malloy"]'),
 	 ('tt0047296','nm0001500','["Father Barry"]'),
 	 ('tt0047296','nm0002011','["Johnny Friendly"]'),
 	 ('tt0047296','nm0001768','["Charley Malloy"]'),
-	 ('tt0047296','nm0001415','N'),
-	 ('tt0047296','nm0775977','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0047296','nm0425711','N'),
-	 ('tt0047296','nm0802563','N'),
-	 ('tt0047296','nm0818545','N'),
-	 ('tt0047396','nm0866462','N'),
 	 ('tt0047396','nm0000071','["L.B. Jefferies"]'),
-	 ('tt0047396','nm0000038','["Lisa Fremont"]'),
+	 ('tt0047396','nm0000038','["Lisa Fremont"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0047396','nm0179819','["Tom Doyle"]'),
 	 ('tt0047396','nm0728812','["Stella"]'),
-	 ('tt0047396','nm0000033','N'),
-	 ('tt0047396','nm0371088','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0047396','nm0941280','N'),
-	 ('tt0047396','nm0000077','N'),
-	 ('tt0047396','nm0122079','N'),
-	 ('tt0047478','nm0620014','N'),
 	 ('tt0047478','nm0001536','["Kikuchiyo"]'),
 	 ('tt0047478','nm0793766','["Kambei Shimada"]'),
 	 ('tt0047478','nm0875477','["Shino"]'),
 	 ('tt0047478','nm0793616','["Wife"]'),
-	 ('tt0047478','nm0000041','N'),
-	 ('tt0047478','nm0368074','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0047478','nm0644823','N'),
-	 ('tt0047478','nm0609404','N'),
-	 ('tt0047478','nm0370593','N'),
-	 ('tt0048473','nm0151519','N'),
 	 ('tt0048473','nm0052333','["Harihar Ray"]'),
 	 ('tt0048473','nm0052334','["Sarbojaya Ray"]'),
 	 ('tt0048473','nm0052343','["Apu Ray"]'),
-	 ('tt0048473','nm0222447','["Indir Thakrun"]'),
-	 ('tt0048473','nm0006249','N'),
-	 ('tt0048473','nm0051808','N');
+	 ('tt0048473','nm0222447','["Indir Thakrun"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0048473','nm0788170','N'),
-	 ('tt0048473','nm0593970','N'),
-	 ('tt0048473','nm0244891','N'),
 	 ('tt0050083','nm0000020','["Juror 8"]'),
 	 ('tt0050083','nm0002011','["Juror 3"]'),
 	 ('tt0050083','nm0000842','["Juror 1"]'),
 	 ('tt0050083','nm0275835','["Juror 2"]'),
-	 ('tt0050083','nm0001486','N'),
-	 ('tt0050083','nm0741627','N'),
-	 ('tt0050083','nm0006132','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0050083','nm0442100','N'),
-	 ('tt0050083','nm0503594','N'),
-	 ('tt0050212','nm0002185','N'),
 	 ('tt0050212','nm0000034','["Shears"]'),
 	 ('tt0050212','nm0000027','["Colonel Nicholson"]'),
 	 ('tt0050212','nm0370144','["Major Warden"]'),
 	 ('tt0050212','nm0370564','["Colonel Saito"]'),
-	 ('tt0050212','nm0000180','N'),
-	 ('tt0050212','nm0099541','N'),
-	 ('tt0050212','nm0286025','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0050212','nm0933858','N'),
-	 ('tt0050212','nm0818545','N'),
-	 ('tt0050825','nm0006086','N'),
 	 ('tt0050825','nm0000018','["Col. Dax"]'),
-	 ('tt0050825','nm0576127','["Cpl. Philippe Paris"]'),
+	 ('tt0050825','nm0576127','["Cpl. Philippe Paris"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0050825','nm0579663','["Gen. George Broulard"]'),
 	 ('tt0050825','nm0534317','["Gen. Paul Mireau"]'),
-	 ('tt0050825','nm0000040','N'),
-	 ('tt0050825','nm0932229','N'),
-	 ('tt0050825','nm0860292','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0050825','nm0167767','N'),
-	 ('tt0050825','nm0364805','N'),
-	 ('tt0050976','nm0526456','N'),
 	 ('tt0050976','nm0001884','["Antonius Block"]'),
 	 ('tt0050976','nm0085038','["Jöns, squire"]'),
 	 ('tt0050976','nm0252345','["Death"]'),
 	 ('tt0050976','nm0691555','["Jof","Joseph"]'),
-	 ('tt0050976','nm0000005','N'),
-	 ('tt0050976','nm0252321','N'),
-	 ('tt0050976','nm0635059','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0050976','nm0005705','N'),
-	 ('tt0050976','nm0906307','N'),
 	 ('tt0050986','nm0803705','["Dr. Eberhard Isak Borg"]'),
 	 ('tt0050986','nm0000761','["Sara","Hitchhiker"]'),
 	 ('tt0050986','nm0862026','["Marianne Borg"]'),
-	 ('tt0050986','nm0085038','["Dr. Evald Borg"]'),
-	 ('tt0050986','nm0000005','N'),
-	 ('tt0050986','nm0635059','N'),
-	 ('tt0050986','nm0005705','N'),
-	 ('tt0050986','nm0741013','N');
+	 ('tt0050986','nm0085038','["Dr. Evald Borg"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0050986','nm0349023','N'),
-	 ('tt0051201','nm0540338','N'),
 	 ('tt0051201','nm0000061','["Leonard Vole"]'),
 	 ('tt0051201','nm0000017','["Christine"]'),
 	 ('tt0051201','nm0001452','["Sir Wilfrid Robarts"]'),
 	 ('tt0051201','nm0006471','["Miss Plimsoll"]'),
-	 ('tt0051201','nm0000697','N'),
-	 ('tt0051201','nm0002005','N'),
-	 ('tt0051201','nm0475823','N'),
-	 ('tt0051201','nm0546140','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0051201','nm0394967','N'),
-	 ('tt0052357','nm0027173','N'),
 	 ('tt0052357','nm0000071','["John ''Scottie'' Ferguson"]'),
 	 ('tt0052357','nm0001571','["Madeleine Elster","Judy Barton"]'),
 	 ('tt0052357','nm0000895','["Marjorie ''Midge'' Wood"]'),
 	 ('tt0052357','nm0375738','["Gavin Elster"]'),
-	 ('tt0052357','nm0000033','N'),
-	 ('tt0052357','nm0178785','N'),
-	 ('tt0052357','nm0853138','N'),
-	 ('tt0052357','nm0092267','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0052357','nm0092268','N'),
-	 ('tt0052618','nm0067103','N'),
 	 ('tt0052618','nm0000032','["Judah Ben-Hur"]'),
-	 ('tt0052618','nm0370144','["Quintus Arrius"]'),
+	 ('tt0052618','nm0370144','["Quintus Arrius"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0052618','nm0000963','["Messala"]'),
 	 ('tt0052618','nm0361823','["Esther"]'),
-	 ('tt0052618','nm0943758','N'),
-	 ('tt0052618','nm0908753','N'),
-	 ('tt0052618','nm0876562','N'),
-	 ('tt0052618','nm0000683','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0052618','nm0027173','N'),
-	 ('tt0053125','nm0102327','N'),
 	 ('tt0053125','nm0000026','["Roger Thornhill"]'),
 	 ('tt0053125','nm0001693','["Eve Kendall"]'),
 	 ('tt0053125','nm0000051','["Phillip Vandamm"]'),
 	 ('tt0053125','nm0484829','["Clara Thornhill"]'),
-	 ('tt0053125','nm0000033','N'),
-	 ('tt0053125','nm0499626','N'),
-	 ('tt0053125','nm0002136','N'),
-	 ('tt0053125','nm0122079','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0053125','nm0866462','N'),
 	 ('tt0053198','nm0529543','["Antoine Doinel"]'),
 	 ('tt0053198','nm0753716','["Julien Doinel - le beau-père d''Antoine"]'),
 	 ('tt0053198','nm0561158','["Gilberte Doinel - la mère d''Antoine"]'),
-	 ('tt0053198','nm0213948','["''Petite Feuille'' - l''instituteur"]'),
-	 ('tt0053198','nm0000076','N'),
-	 ('tt0053198','nm0610115','N'),
-	 ('tt0053198','nm0176036','N'),
-	 ('tt0053198','nm0005684','N'),
-	 ('tt0053198','nm0950391','N');
+	 ('tt0053198','nm0213948','["''Petite Feuille'' - l''instituteur"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0053291','nm0485702','N'),
 	 ('tt0053291','nm0000054','["Sugar Kane Kowalczyk"]'),
 	 ('tt0053291','nm0000348','["Joe","Josephine","Shell Oil Junior"]'),
 	 ('tt0053291','nm0000493','["Jerry","Daphne"]'),
 	 ('tt0053291','nm0706368','["Spats Colombo"]'),
-	 ('tt0053291','nm0000697','N'),
-	 ('tt0053291','nm0224634','N'),
-	 ('tt0053291','nm0858329','N'),
-	 ('tt0053291','nm0517615','N'),
-	 ('tt0053291','nm0006037','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0053604','nm0000493','["C.C. Baxter"]'),
 	 ('tt0053604','nm0000511','["Fran Kubelik"]'),
 	 ('tt0053604','nm0534045','["Jeff D. Sheldrake"]'),
 	 ('tt0053604','nm0001827','["Joe Dobisch"]'),
-	 ('tt0053604','nm0000697','N'),
-	 ('tt0053604','nm0224634','N'),
-	 ('tt0053604','nm0006037','N'),
-	 ('tt0053604','nm0005766','N'),
-	 ('tt0053604','nm0541721','N'),
-	 ('tt0054215','nm0866462','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0054215','nm0000578','["Norman Bates"]'),
-	 ('tt0054215','nm0001463','["Marion Crane"]'),
+	 ('tt0054215','nm0001463','["Marion Crane"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0054215','nm0587256','["Lila Crane"]'),
 	 ('tt0054215','nm0001260','["Sam Loomis"]'),
-	 ('tt0054215','nm0000033','N'),
-	 ('tt0054215','nm0825010','N'),
-	 ('tt0054215','nm0088645','N'),
-	 ('tt0054215','nm0002136','N'),
-	 ('tt0054215','nm0005852','N'),
-	 ('tt0055031','nm0461772','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0055031','nm0000075','["Chief Judge Dan Haywood"]'),
 	 ('tt0055031','nm0000044','["Dr. Ernst Janning"]'),
 	 ('tt0055031','nm0001847','["Col. Tad Lawson"]'),
 	 ('tt0055031','nm0000017','["Mrs. Bertholt"]'),
-	 ('tt0055031','nm0006452','N'),
-	 ('tt0055031','nm0542631','N'),
-	 ('tt0055031','nm0001050','N'),
-	 ('tt0055031','nm0006104','N'),
-	 ('tt0055031','nm0005768','N'),
-	 ('tt0055630','nm0613499','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0055630','nm0001536','["Sanjuro Kuwabatake","The Samurai"]'),
 	 ('tt0055630','nm0867391','["Gonji - Tavern Keeper"]'),
 	 ('tt0055630','nm0619938','["Unosuke - Gunfighter"]'),
-	 ('tt0055630','nm0875362','["Nui"]'),
-	 ('tt0055630','nm0000041','N'),
-	 ('tt0055630','nm0452878','N'),
-	 ('tt0055630','nm0849083','N'),
-	 ('tt0055630','nm0766496','N'),
-	 ('tt0055630','nm0594335','N'),
-	 ('tt0056058','nm0590799','N');
+	 ('tt0055630','nm0875362','["Nui"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0056058','nm0619938','["Hanshiro Tsugumo"]'),
 	 ('tt0056058','nm0410968','["Motome Chijiiwa"]'),
 	 ('tt0056058','nm0412615','["Miho Tsugumo"]'),
 	 ('tt0056058','nm0848533','["Hikokuro Omodaka"]'),
-	 ('tt0056058','nm0462030','N'),
-	 ('tt0056058','nm0847668','N'),
-	 ('tt0056058','nm0368074','N'),
-	 ('tt0056058','nm0396106','N'),
-	 ('tt0056058','nm0006316','N'),
-	 ('tt0056172','nm0002875','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0056172','nm0000564','["Lawrence"]'),
 	 ('tt0056172','nm0000027','["Prince Faisal"]'),
 	 ('tt0056172','nm0000063','["Auda Abu Tayi"]'),
 	 ('tt0056172','nm0370144','["General Allenby"]'),
-	 ('tt0056172','nm0000180','N'),
-	 ('tt0056172','nm0004122','N'),
-	 ('tt0056172','nm0933858','N'),
-	 ('tt0056172','nm0818545','N'),
-	 ('tt0056172','nm0003574','N'),
-	 ('tt0056592','nm0005737','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0056592','nm0000060','["Atticus Finch"]'),
-	 ('tt0056592','nm0576345','["Dill Harris"]'),
+	 ('tt0056592','nm0576345','["Dill Harris"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0056592','nm0653942','["Sheriff Heck Tate"]'),
 	 ('tt0056592','nm0614677','["Maudie Atkinson"]'),
-	 ('tt0056592','nm0612322','N'),
-	 ('tt0056592','nm0497369','N'),
-	 ('tt0056592','nm0285210','N'),
-	 ('tt0056592','nm0001587','N'),
-	 ('tt0056592','nm0000930','N'),
-	 ('tt0057012','nm0367431','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0057012','nm0000634','["Group Capt. Lionel Mandrake","President Merkin Muffley","Dr. Strangelove"]'),
 	 ('tt0057012','nm0001715','["Gen. ''Buck'' Turgidson"]'),
 	 ('tt0057012','nm0001330','["Brig. Gen. Jack D. Ripper"]'),
 	 ('tt0057012','nm0943978','["Col. ''Bat'' Guano"]'),
-	 ('tt0057012','nm0000040','N'),
-	 ('tt0057012','nm0816143','N'),
-	 ('tt0057012','nm0313570','N'),
-	 ('tt0057012','nm0006145','N'),
-	 ('tt0057012','nm0852405','N'),
-	 ('tt0057115','nm0005701','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0057115','nm0000537','["Hilts ''The Cooler King''"]'),
 	 ('tt0057115','nm0001258','["Hendley ''The Scrounger''"]'),
 	 ('tt0057115','nm0000277','["Bartlett ''Big X''"]'),
-	 ('tt0057115','nm0000314','["Danny ''Tunnel King''"]'),
-	 ('tt0057115','nm0836328','N'),
-	 ('tt0057115','nm0108595','N'),
-	 ('tt0057115','nm0165412','N'),
-	 ('tt0057115','nm0122446','N'),
-	 ('tt0057115','nm0000930','N'),
-	 ('tt0057565','nm0849083','N');
+	 ('tt0057115','nm0000314','["Danny ''Tunnel King''"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0057565','nm0001536','["Kingo Gondo"]'),
 	 ('tt0057565','nm0755403','["Aoki - the Chauffeur"]'),
 	 ('tt0057565','nm0619938','["Chief Detective Tokura"]'),
 	 ('tt0057565','nm0434593','["Reiko Gondo"]'),
-	 ('tt0057565','nm0000041','N'),
-	 ('tt0057565','nm0644823','N'),
-	 ('tt0057565','nm0452878','N'),
-	 ('tt0057565','nm0386750','N'),
-	 ('tt0057565','nm0402805','N'),
-	 ('tt0058946','nm0606211','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0058946','nm0352835','["Ali La Pointe"]'),
 	 ('tt0058946','nm0552483','["Col. Mathieu"]'),
 	 ('tt0058946','nm0754272','["Djafar"]'),
 	 ('tt0058946','nm0449197','["Fathia"]'),
-	 ('tt0058946','nm0690597','N'),
-	 ('tt0058946','nm0758357','N'),
-	 ('tt0058946','nm0616026','N'),
-	 ('tt0058946','nm0001553','N'),
-	 ('tt0058946','nm0309800','N'),
-	 ('tt0059578','nm0223964','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0059578','nm0000142','["Monco"]'),
-	 ('tt0059578','nm0001812','["Col. Douglas Mortimer"]'),
+	 ('tt0059578','nm0001812','["Col. Douglas Mortimer"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0059578','nm0002231','["El Indio (The Indian)"]'),
 	 ('tt0059578','nm0472756','["Mary - Hotel Manager''s Beautiful Wife"]'),
-	 ('tt0059578','nm0001466','N'),
-	 ('tt0059578','nm0607694','N'),
-	 ('tt0059578','nm0898812','N'),
-	 ('tt0059578','nm0006872','N'),
-	 ('tt0059578','nm0217258','N'),
-	 ('tt0059742','nm0903125','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0059742','nm0000267','["Maria"]'),
 	 ('tt0059742','nm0001626','["Captain Georg von Trapp"]'),
 	 ('tt0059742','nm0662223','["The Baroness"]'),
 	 ('tt0059742','nm0370821','["Max Detweiler"]'),
-	 ('tt0059742','nm0936404','N'),
-	 ('tt0059742','nm0403346','N'),
-	 ('tt0059742','nm0512231','N'),
-	 ('tt0059742','nm0189496','N'),
-	 ('tt0059742','nm0499626','N'),
-	 ('tt0060196','nm0001553','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0060196','nm0000142','["Blondie"]'),
 	 ('tt0060196','nm0908919','["Tuco"]'),
 	 ('tt0060196','nm0001812','["Sentenza","Angel Eyes"]'),
-	 ('tt0060196','nm0321294','["Alcoholic Union Captain"]'),
-	 ('tt0060196','nm0001466','N'),
-	 ('tt0060196','nm0898812','N'),
-	 ('tt0060196','nm0408488','N'),
-	 ('tt0060196','nm0769249','N'),
-	 ('tt0060196','nm0342090','N'),
-	 ('tt0060827','nm0000761','["Alma"]');
+	 ('tt0060196','nm0321294','["Alcoholic Union Captain"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0060827','nm0000761','["Alma"]'),
 	 ('tt0060827','nm0880521','["Elisabet Vogler"]'),
 	 ('tt0060827','nm0472234','["The Doctor"]'),
 	 ('tt0060827','nm0085038','["Mr. Vogler"]'),
-	 ('tt0060827','nm0000005','N'),
-	 ('tt0060827','nm0921305','N'),
-	 ('tt0060827','nm0005815','N'),
-	 ('tt0060827','nm0753276','N'),
-	 ('tt0060827','nm0512482','N'),
-	 ('tt0061512','nm0006277','N'),
-	 ('tt0061512','nm0000056','["Luke"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0061512','nm0000056','["Luke"]'),
 	 ('tt0061512','nm0001421','["Dragline"]'),
 	 ('tt0061512','nm0001510','["Captain"]'),
 	 ('tt0061512','nm0134201','["Society Red"]'),
-	 ('tt0061512','nm0742341','N'),
-	 ('tt0061512','nm0668914','N'),
-	 ('tt0061512','nm0682757','N'),
-	 ('tt0061512','nm0237543','N'),
-	 ('tt0061512','nm0140826','N'),
-	 ('tt0062622','nm0486127','N'),
-	 ('tt0062622','nm0001158','["Dr. Dave Bowman"]');
+	 ('tt0062622','nm0001158','["Dr. Dave Bowman"]'),
+	 ('tt0062622','nm0516972','["Dr. Frank Poole"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0062622','nm0516972','["Dr. Frank Poole"]'),
 	 ('tt0062622','nm0843213','["Dr. Heywood R. Floyd"]'),
 	 ('tt0062622','nm0725220','["Moon-Watcher"]'),
-	 ('tt0062622','nm0000040','N'),
-	 ('tt0062622','nm0002009','N'),
-	 ('tt0062622','nm0005910','N'),
-	 ('tt0062622','nm0522487','N'),
-	 ('tt0062622','nm0033658','N'),
-	 ('tt0064116','nm0001553','N'),
-	 ('tt0064116','nm0000020','["Frank"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0064116','nm0000020','["Frank"]'),
 	 ('tt0064116','nm0000314','["Harmonica"]'),
 	 ('tt0064116','nm0001012','["Jill McBain"]'),
 	 ('tt0064116','nm0001673','["Manuel ''Cheyenne'' Gutiérrez"]'),
-	 ('tt0064116','nm0001466','N'),
-	 ('tt0064116','nm0006872','N'),
-	 ('tt0064116','nm0000783','N'),
-	 ('tt0064116','nm0000934','N'),
-	 ('tt0064116','nm0607694','N'),
 	 ('tt0066921','nm0000532','["Alex"]'),
-	 ('tt0066921','nm0535861','["Mr Alexander"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0066921','nm0535861','["Mr Alexander"]'),
 	 ('tt0066921','nm0060988','["Chief Guard"]'),
-	 ('tt0066921','nm0165049','["Dim"]'),
-	 ('tt0066921','nm0000040','N'),
-	 ('tt0066921','nm0121256','N'),
-	 ('tt0066921','nm0005633','N'),
-	 ('tt0066921','nm0124833','N'),
-	 ('tt0066921','nm0058045','N'),
-	 ('tt0068646','nm0722000','N'),
-	 ('tt0068646','nm0000008','["Don Vito Corleone"]'),
-	 ('tt0068646','nm0000199','["Michael"]');
+	 ('tt0066921','nm0165049','["Dim"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0068646','nm0000008','["Don Vito Corleone"]'),
+	 ('tt0068646','nm0000199','["Michael"]'),
 	 ('tt0068646','nm0001001','["Sonny"]'),
 	 ('tt0068646','nm0000473','["Kay Adams"]'),
-	 ('tt0068646','nm0000338','N'),
-	 ('tt0068646','nm0701374','N'),
-	 ('tt0068646','nm0748665','N'),
-	 ('tt0068646','nm0000065','N'),
-	 ('tt0068646','nm0932336','N'),
-	 ('tt0070047','nm0539990','N'),
 	 ('tt0070047','nm0000995','["Chris MacNeil"]'),
-	 ('tt0070047','nm0001884','["Father Lankester Merrin"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0070047','nm0001884','["Father Lankester Merrin"]'),
 	 ('tt0070047','nm0000304','["Regan MacNeil"]'),
 	 ('tt0070047','nm0002011','["Lt. William Kinderman"]'),
-	 ('tt0070047','nm0001243','N'),
-	 ('tt0070047','nm0087861','N'),
-	 ('tt0070047','nm0005845','N'),
-	 ('tt0070047','nm0310797','N'),
-	 ('tt0070047','nm0521554','N'),
-	 ('tt0070735','nm0005892','N'),
 	 ('tt0070735','nm0000056','["Henry Gondorff"]'),
 	 ('tt0070735','nm0000602','["Johnny Hooker"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0070735','nm0001727','["Doyle Lonnegan"]'),
 	 ('tt0070735','nm0001164','["Lt. Wm. Snyder"]'),
-	 ('tt0070735','nm0001351','N'),
-	 ('tt0070735','nm0911486','N'),
-	 ('tt0070735','nm0082300','N'),
-	 ('tt0070735','nm0680539','N'),
-	 ('tt0070735','nm0680635','N'),
-	 ('tt0071315','nm0642714','N'),
 	 ('tt0071315','nm0000197','["J.J. Gittes"]'),
-	 ('tt0071315','nm0001159','["Evelyn Mulwray"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0071315','nm0001159','["Evelyn Mulwray"]'),
 	 ('tt0071315','nm0001379','["Noah Cross"]'),
 	 ('tt0071315','nm0520164','["Escobar"]'),
-	 ('tt0071315','nm0000591','N'),
-	 ('tt0071315','nm0001801','N'),
-	 ('tt0071315','nm0263172','N'),
-	 ('tt0071315','nm0000025','N'),
-	 ('tt0071315','nm0002166','N'),
-	 ('tt0071411','nm0229809','N'),
 	 ('tt0071411','nm0613364','["Dersu Uzala"]'),
-	 ('tt0071411','nm0813272','["Arsenev"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0071411','nm0813272','["Arsenev"]'),
 	 ('tt0071411','nm0125730','["Otryad Arseneva"]'),
-	 ('tt0071411','nm1276196','["Otryad Arseneva"]'),
-	 ('tt0071411','nm0000041','N'),
-	 ('tt0071411','nm0619330','N'),
-	 ('tt0071411','nm0037539','N'),
-	 ('tt0071411','nm0559452','N'),
-	 ('tt0071411','nm0796062','N'),
-	 ('tt0071562','nm0548943','N'),
-	 ('tt0071562','nm0000199','["Michael"]'),
-	 ('tt0071562','nm0000134','["Vito Corleone"]');
+	 ('tt0071411','nm1276196','["Otryad Arseneva"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0071562','nm0000199','["Michael"]'),
+	 ('tt0071562','nm0000134','["Vito Corleone"]'),
 	 ('tt0071562','nm0000380','["Tom Hagen"]'),
 	 ('tt0071562','nm0000473','["Kay"]'),
-	 ('tt0071562','nm0000338','N'),
-	 ('tt0071562','nm0701374','N'),
-	 ('tt0071562','nm0000065','N'),
-	 ('tt0071562','nm0932336','N'),
-	 ('tt0071562','nm0539794','N'),
 	 ('tt0072684','nm0641939','["Barry Lyndon"]'),
 	 ('tt0072684','nm0001943','["Lady Honoria Lyndon"]'),
-	 ('tt0072684','nm0535861','["The Chevalier du Balibari"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0072684','nm0535861','["The Chevalier du Balibari"]'),
 	 ('tt0072684','nm0473228','["Capt. Potzdorf"]'),
-	 ('tt0072684','nm0000040','N'),
-	 ('tt0072684','nm0856842','N'),
-	 ('tt0072684','nm0005633','N'),
-	 ('tt0072684','nm0493339','N'),
-	 ('tt0072684','nm0010553','N'),
-	 ('tt0073195','nm0002354','N'),
 	 ('tt0073195','nm0001702','["Brody"]'),
-	 ('tt0073195','nm0001727','["Quint"]'),
-	 ('tt0073195','nm0000377','["Hooper"]');
+	 ('tt0073195','nm0001727','["Quint"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0073195','nm0000377','["Hooper"]'),
 	 ('tt0073195','nm0308882','["Ellen Brody"]'),
-	 ('tt0073195','nm0000229','N'),
-	 ('tt0073195','nm0001940','N'),
-	 ('tt0073195','nm0331956','N'),
-	 ('tt0073195','nm0113360','N'),
-	 ('tt0073195','nm0005573','N'),
-	 ('tt0073486','nm0000140','N'),
 	 ('tt0073486','nm0000197','["R.P. McMurphy"]'),
 	 ('tt0073486','nm0001221','["Nurse Ratched"]'),
-	 ('tt0073486','nm0077720','["Ellis"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0073486','nm0077720','["Ellis"]'),
 	 ('tt0073486','nm0110480','["Col. Matterson"]'),
-	 ('tt0073486','nm0001232','N'),
-	 ('tt0073486','nm0369142','N'),
-	 ('tt0073486','nm0325743','N'),
-	 ('tt0073486','nm0450181','N'),
-	 ('tt0073486','nm0913670','N'),
-	 ('tt0074958','nm0374189','N'),
 	 ('tt0074958','nm0001159','["Diana Christensen"]'),
 	 ('tt0074958','nm0000034','["Max Schumacher"]'),
-	 ('tt0074958','nm0002075','["Howard Beale"]');
+	 ('tt0074958','nm0002075','["Howard Beale"]'),
+	 ('tt0074958','nm0000380','["Frank Hackett"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0074958','nm0000380','["Frank Hackett"]'),
-	 ('tt0074958','nm0001486','N'),
-	 ('tt0074958','nm0154665','N'),
-	 ('tt0074958','nm0331907','N'),
-	 ('tt0074958','nm0492747','N'),
-	 ('tt0074958','nm0005845','N'),
-	 ('tt0075148','nm0175722','N'),
 	 ('tt0075148','nm0000230','["Rocky"]'),
 	 ('tt0075148','nm0001735','["Adrian"]'),
-	 ('tt0075148','nm0949350','["Paulie"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0075148','nm0949350','["Paulie"]'),
 	 ('tt0075148','nm0001835','["Apollo"]'),
-	 ('tt0075148','nm0000814','N'),
-	 ('tt0075148','nm0153590','N'),
-	 ('tt0075148','nm0005563','N'),
-	 ('tt0075148','nm0006015','N'),
-	 ('tt0075148','nm0185583','N'),
-	 ('tt0075314','nm0152469','N'),
 	 ('tt0075314','nm0000134','["Travis Bickle"]'),
 	 ('tt0075314','nm0000149','["Iris"]'),
-	 ('tt0075314','nm0001732','["Betsy"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0075314','nm0001732','["Betsy"]'),
 	 ('tt0075314','nm0000983','["Tom"]'),
-	 ('tt0075314','nm0000217','N'),
-	 ('tt0075314','nm0001707','N'),
-	 ('tt0075314','nm0680539','N'),
-	 ('tt0075314','nm0680635','N'),
-	 ('tt0075314','nm0002136','N'),
-	 ('tt0076759','nm0156816','N'),
 	 ('tt0076759','nm0000434','["Luke Skywalker"]'),
-	 ('tt0076759','nm0000148','["Han Solo"]'),
-	 ('tt0076759','nm0000402','["Princess Leia Organa"]');
+	 ('tt0076759','nm0000148','["Han Solo"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0076759','nm0000402','["Princess Leia Organa"]'),
 	 ('tt0076759','nm0000027','["Ben Obi-Wan Kenobi"]'),
-	 ('tt0076759','nm0000184','N'),
-	 ('tt0076759','nm0476030','N'),
-	 ('tt0076759','nm0564768','N'),
-	 ('tt0076759','nm0002354','N'),
-	 ('tt0076759','nm0852405','N'),
-	 ('tt0077416','nm0678911','N'),
 	 ('tt0077416','nm0000134','["Michael"]'),
 	 ('tt0077416','nm0000686','["Nick"]'),
-	 ('tt0077416','nm0001030','["Stan"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0077416','nm0001030','["Stan"]'),
 	 ('tt0077416','nm0001698','["Steven"]'),
-	 ('tt0077416','nm0001047','N'),
-	 ('tt0077416','nm0913346','N'),
-	 ('tt0077416','nm0307311','N'),
-	 ('tt0077416','nm0714793','N'),
-	 ('tt0077416','nm0214303','N'),
-	 ('tt0078748','nm0001353','N'),
 	 ('tt0078748','nm0000244','["Ripley"]'),
 	 ('tt0078748','nm0000643','["Dallas"]'),
-	 ('tt0078748','nm0000457','["Kane"]');
+	 ('tt0078748','nm0000457','["Kane"]'),
+	 ('tt0078748','nm0001021','["Lambert"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0078748','nm0001021','["Lambert"]'),
-	 ('tt0078748','nm0000631','N'),
-	 ('tt0078748','nm0639321','N'),
-	 ('tt0078748','nm0795953','N'),
-	 ('tt0078748','nm0140826','N'),
-	 ('tt0078748','nm0318429','N'),
-	 ('tt0078788','nm0178874','N'),
 	 ('tt0078788','nm0000640','["Captain Benjamin L. Willard"]'),
 	 ('tt0078788','nm0000008','["Colonel Walter E. Kurtz"]'),
-	 ('tt0078788','nm0000380','["Lieutenant Colonel Bill Kilgore"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0078788','nm0000380','["Lieutenant Colonel Bill Kilgore"]'),
 	 ('tt0078788','nm0002078','["Jay ''Chef'' Hicks"]'),
-	 ('tt0078788','nm0000338','N'),
-	 ('tt0078788','nm0587518','N'),
-	 ('tt0078788','nm0380282','N'),
-	 ('tt0078788','nm0175676','N'),
-	 ('tt0078788','nm0041447','N'),
-	 ('tt0079470','nm0236405','N'),
 	 ('tt0079470','nm0001037','["Wise Man #2","Brian Cohen","Biggus Dickus"]'),
 	 ('tt0079470','nm0000092','["Wise Man #1","Reg","Jewish Official"]'),
-	 ('tt0079470','nm0001589','["Wise Man #3","Mr. Big Nose","Francis"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0079470','nm0001589','["Wise Man #3","Mr. Big Nose","Francis"]'),
 	 ('tt0079470','nm0000416','["Man Even Further Forward","Revolutionary","Jailer"]'),
-	 ('tt0079470','nm0001402','N'),
-	 ('tt0079470','nm0001385','N'),
-	 ('tt0079470','nm0326364','N'),
-	 ('tt0079470','nm0121431','N'),
-	 ('tt0079470','nm0084695','N'),
-	 ('tt0080678','nm0762674','N'),
 	 ('tt0080678','nm0000164','["Dr. Frederick Treves"]'),
-	 ('tt0080678','nm0000457','["John Merrick"]'),
-	 ('tt0080678','nm0000843','["Mrs. Kendal"]');
+	 ('tt0080678','nm0000457','["John Merrick"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0080678','nm0000843','["Mrs. Kendal"]'),
 	 ('tt0080678','nm0000024','["Carr Gomm"]'),
-	 ('tt0080678','nm0000186','N'),
-	 ('tt0080678','nm0212246','N'),
-	 ('tt0080678','nm0075015','N'),
-	 ('tt0080678','nm0872375','N'),
-	 ('tt0080678','nm0598744','N'),
-	 ('tt0080684','nm0564768','N'),
 	 ('tt0080684','nm0000434','["Luke Skywalker"]'),
 	 ('tt0080684','nm0000148','["Han Solo"]'),
-	 ('tt0080684','nm0000402','["Princess Leia"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0080684','nm0000402','["Princess Leia"]'),
 	 ('tt0080684','nm0001850','["Lando Calrissian"]'),
-	 ('tt0080684','nm0449984','N'),
-	 ('tt0080684','nm0102824','N'),
-	 ('tt0080684','nm0001410','N'),
-	 ('tt0080684','nm0000184','N'),
-	 ('tt0080684','nm0476030','N'),
-	 ('tt0081398','nm0552731','N'),
 	 ('tt0081398','nm0000134','["Jake La Motta"]'),
 	 ('tt0081398','nm0001550','["Vickie La Motta"]'),
-	 ('tt0081398','nm0000582','["Joey"]');
+	 ('tt0081398','nm0000582','["Joey"]'),
+	 ('tt0081398','nm0898634','["Salvy"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0081398','nm0898634','["Salvy"]'),
-	 ('tt0081398','nm0000217','N'),
-	 ('tt0081398','nm0483766','N'),
-	 ('tt0081398','nm0141734','N'),
-	 ('tt0081398','nm0678014','N'),
-	 ('tt0081398','nm0001707','N'),
-	 ('tt0081505','nm0005633','N'),
 	 ('tt0081505','nm0000197','["Jack Torrance"]'),
 	 ('tt0081505','nm0001167','["Wendy Torrance"]'),
-	 ('tt0081505','nm0515950','["Danny Torrance"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0081505','nm0515950','["Danny Torrance"]'),
 	 ('tt0081505','nm0001079','["Dick Hallorann"]'),
-	 ('tt0081505','nm0000040','N'),
-	 ('tt0081505','nm0000175','N'),
-	 ('tt0081505','nm0424956','N'),
-	 ('tt0081505','nm0137793','N'),
-	 ('tt0081505','nm0253844','N'),
-	 ('tt0082096','nm0005911','N'),
 	 ('tt0082096','nm0001638','["Capt.-Lt. Henrich Lehmann-Willenbrock - Der Alte"]'),
 	 ('tt0082096','nm0344963','["Lt. Werner - Correspondent"]'),
-	 ('tt0082096','nm0921044','["Chief Engineer Fritz Grade - Der Leitende-Der LI"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0082096','nm0921044','["Chief Engineer Fritz Grade - Der Leitende-Der LI"]'),
 	 ('tt0082096','nm0071059','["1st Lieutenant - Number One-1WO"]'),
-	 ('tt0082096','nm0000583','N'),
-	 ('tt0082096','nm0118164','N'),
-	 ('tt0082096','nm0007156','N'),
-	 ('tt0082096','nm0737582','N'),
-	 ('tt0082096','nm0006041','N'),
-	 ('tt0082971','nm0002354','N'),
 	 ('tt0082971','nm0000148','["Indy"]'),
-	 ('tt0082971','nm0000261','["Marion"]'),
-	 ('tt0082971','nm0293550','["Belloq"]');
+	 ('tt0082971','nm0000261','["Marion"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0082971','nm0293550','["Belloq"]'),
 	 ('tt0082971','nm0722636','["Sallah"]'),
-	 ('tt0082971','nm0000229','N'),
-	 ('tt0082971','nm0001410','N'),
-	 ('tt0082971','nm0000184','N'),
-	 ('tt0082971','nm0442241','N'),
-	 ('tt0082971','nm0550881','N'),
-	 ('tt0083658','nm0006331','N'),
 	 ('tt0083658','nm0000148','["Rick Deckard"]'),
 	 ('tt0083658','nm0000442','["Roy Batty"]'),
-	 ('tt0083658','nm0000707','["Rachael"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0083658','nm0000707','["Rachael"]'),
 	 ('tt0083658','nm0001579','["Gaff"]'),
-	 ('tt0083658','nm0000631','N'),
-	 ('tt0083658','nm0266684','N'),
-	 ('tt0083658','nm0672459','N'),
-	 ('tt0083658','nm0001140','N'),
-	 ('tt0083658','nm0214303','N'),
-	 ('tt0083987','nm0089182','N'),
 	 ('tt0083987','nm0001426','["Mahatma Gandhi"]'),
 	 ('tt0083987','nm0000024','["Lord Irwin"]'),
-	 ('tt0083987','nm0368990','["Kasturba Gandhi"]');
+	 ('tt0083987','nm0368990','["Kasturba Gandhi"]'),
+	 ('tt0083987','nm0786022','["Pandit Nehru"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0083987','nm0786022','["Pandit Nehru"]'),
-	 ('tt0083987','nm0000277','N'),
-	 ('tt0083987','nm0109300','N'),
-	 ('tt0083987','nm0788170','N'),
-	 ('tt0083987','nm0853111','N'),
-	 ('tt0083987','nm0930119','N'),
-	 ('tt0084787','nm0001553','N'),
 	 ('tt0084787','nm0000621','["MacReady"]'),
 	 ('tt0084787','nm0000979','["Dr. Blair"]'),
-	 ('tt0084787','nm0202966','["Childs"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0084787','nm0202966','["Childs"]'),
 	 ('tt0084787','nm0557956','["Clark"]'),
-	 ('tt0084787','nm0000118','N'),
-	 ('tt0084787','nm0484111','N'),
-	 ('tt0084787','nm0132168','N'),
-	 ('tt0084787','nm0287759','N'),
-	 ('tt0084787','nm0877274','N'),
-	 ('tt0086190','nm0002354','N'),
 	 ('tt0086190','nm0000434','["Luke Skywalker"]'),
 	 ('tt0086190','nm0000148','["Han Solo"]'),
-	 ('tt0086190','nm0000402','["Princess Leia"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0086190','nm0000402','["Princess Leia"]'),
 	 ('tt0086190','nm0001850','["Lando Calrissian"]'),
-	 ('tt0086190','nm0549658','N'),
-	 ('tt0086190','nm0001410','N'),
-	 ('tt0086190','nm0000184','N'),
-	 ('tt0086190','nm0443599','N'),
-	 ('tt0086190','nm0564768','N'),
-	 ('tt0086250','nm0106840','N'),
 	 ('tt0086250','nm0000199','["Tony Montana"]'),
-	 ('tt0086250','nm0000201','["Elvira"]'),
-	 ('tt0086250','nm0000874','["Manny Ribera"]');
+	 ('tt0086250','nm0000201','["Elvira"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0086250','nm0000874','["Manny Ribera"]'),
 	 ('tt0086250','nm0001512','["Gina"]'),
-	 ('tt0086250','nm0000361','N'),
-	 ('tt0086250','nm0000231','N'),
-	 ('tt0086250','nm0001328','N'),
-	 ('tt0086250','nm0372942','N'),
-	 ('tt0086250','nm0870660','N'),
-	 ('tt0086879','nm0151434','N'),
 	 ('tt0086879','nm0000719','["Antonio Salieri"]'),
 	 ('tt0086879','nm0001371','["Wolfgang Amadeus Mozart"]'),
-	 ('tt0086879','nm0000931','["Constanze Mozart"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0086879','nm0000931','["Constanze Mozart"]'),
 	 ('tt0086879','nm0234541','["Leopold Mozart"]'),
-	 ('tt0086879','nm0001232','N'),
-	 ('tt0086879','nm0787323','N'),
-	 ('tt0086879','nm0537004','N'),
-	 ('tt0086879','nm0951763','N'),
-	 ('tt0086879','nm0005816','N'),
-	 ('tt0087843','nm0033490','N'),
 	 ('tt0087843','nm0000134','["Noodles"]'),
 	 ('tt0087843','nm0000249','["Max"]'),
-	 ('tt0087843','nm0001527','["Deborah"]');
+	 ('tt0087843','nm0001527','["Deborah"]'),
+	 ('tt0087843','nm0001852','["Jimmy O''Donnell"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0087843','nm0001852','["Jimmy O''Donnell"]'),
-	 ('tt0087843','nm0001466','N'),
-	 ('tt0087843','nm0340580','N'),
-	 ('tt0087843','nm0073053','N'),
-	 ('tt0087843','nm0207401','N'),
-	 ('tt0087843','nm0575804','N'),
-	 ('tt0088247','nm0325358','N'),
 	 ('tt0088247','nm0000216','["Terminator"]'),
 	 ('tt0088247','nm0000157','["Sarah Connor"]'),
-	 ('tt0088247','nm0000299','["Kyle Reese"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0088247','nm0000299','["Kyle Reese"]'),
 	 ('tt0088247','nm0934902','["Traxler"]'),
-	 ('tt0088247','nm0000116','N'),
-	 ('tt0088247','nm0005036','N'),
-	 ('tt0088247','nm0936537','N'),
-	 ('tt0088247','nm0006075','N'),
-	 ('tt0088247','nm0004229','N'),
-	 ('tt0088763','nm0004637','N'),
 	 ('tt0088763','nm0000150','["Marty McFly"]'),
 	 ('tt0088763','nm0000502','["Dr. Emmett Brown"]'),
-	 ('tt0088763','nm0000670','["Lorraine Baines"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0088763','nm0000670','["Lorraine Baines"]'),
 	 ('tt0088763','nm0000417','["George McFly"]'),
-	 ('tt0088763','nm0000709','N'),
-	 ('tt0088763','nm0301826','N'),
-	 ('tt0088763','nm0134635','N'),
-	 ('tt0088763','nm0006293','N'),
-	 ('tt0088763','nm0005678','N'),
-	 ('tt0089881','nm0797889','N'),
 	 ('tt0089881','nm0619938','["Lord Hidetora Ichimonji"]'),
-	 ('tt0089881','nm0855417','["Taro Takatora Ichimonji"]'),
-	 ('tt0089881','nm0628704','["Jiro Masatora Ichimonji"]');
+	 ('tt0089881','nm0855417','["Taro Takatora Ichimonji"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0089881','nm0628704','["Jiro Masatora Ichimonji"]'),
 	 ('tt0089881','nm0753480','["Saburo Naotora Ichimonji"]'),
-	 ('tt0089881','nm0000041','N'),
-	 ('tt0089881','nm0644823','N'),
-	 ('tt0089881','nm0406836','N'),
-	 ('tt0089881','nm0000636','N'),
-	 ('tt0089881','nm0361683','N'),
-	 ('tt0090605','nm0005036','N'),
 	 ('tt0090605','nm0000244','["Ripley"]'),
 	 ('tt0090605','nm0000299','["Corporal Hicks"]'),
-	 ('tt0090605','nm0001343','["Newt"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0090605','nm0001343','["Newt"]'),
 	 ('tt0090605','nm0001663','["Burke"]'),
-	 ('tt0090605','nm0000116','N'),
-	 ('tt0090605','nm0318429','N'),
-	 ('tt0090605','nm0001353','N'),
-	 ('tt0090605','nm0639321','N'),
-	 ('tt0090605','nm0795953','N'),
-	 ('tt0091251','nm0678202','N'),
 	 ('tt0091251','nm0470385','["Flyora Gayshun"]'),
 	 ('tt0091251','nm0592500','["Glasha"]'),
-	 ('tt0091251','nm0490708','["Kosach"]');
+	 ('tt0091251','nm0490708','["Kosach"]'),
+	 ('tt0091251','nm0046575','["Rubezh"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0091251','nm0046575','["Rubezh"]'),
-	 ('tt0091251','nm0459552','N'),
-	 ('tt0091251','nm0010696','N'),
-	 ('tt0091251','nm0945897','N'),
-	 ('tt0091251','nm0734870','N'),
-	 ('tt0091251','nm0069483','N'),
-	 ('tt0091763','nm0747941','N'),
 	 ('tt0091763','nm0000221','["Chris"]'),
 	 ('tt0091763','nm0000297','["Sgt. Barnes"]'),
-	 ('tt0091763','nm0000353','["Sgt. Elias"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0091763','nm0000353','["Sgt. Elias"]'),
 	 ('tt0091763','nm0202966','["King"]'),
-	 ('tt0091763','nm0000231','N'),
-	 ('tt0091763','nm0465745','N'),
-	 ('tt0091763','nm0000016','N'),
-	 ('tt0091763','nm0724744','N'),
-	 ('tt0091763','nm0800943','N'),
-	 ('tt0092005','nm0006217','N'),
 	 ('tt0092005','nm0000696','["Gordie Lachance"]'),
 	 ('tt0092005','nm0000203','["Chris Chambers"]'),
-	 ('tt0092005','nm0000397','["Teddy Duchamp"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0092005','nm0000397','["Teddy Duchamp"]'),
 	 ('tt0092005','nm0005278','["Vern Tessio"]'),
-	 ('tt0092005','nm0001661','N'),
-	 ('tt0092005','nm0000175','N'),
-	 ('tt0092005','nm0317279','N'),
-	 ('tt0092005','nm0262595','N'),
-	 ('tt0092005','nm0770650','N'),
-	 ('tt0093058','nm0402950','N'),
 	 ('tt0093058','nm0000546','["Pvt. Joker"]'),
-	 ('tt0093058','nm0000388','["Gny. Sgt. Hartman"]'),
-	 ('tt0093058','nm0000352','["Pvt. Pyle"]');
+	 ('tt0093058','nm0000388','["Gny. Sgt. Hartman"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0093058','nm0000352','["Pvt. Pyle"]'),
 	 ('tt0093058','nm0000284','["Animal Mother"]'),
-	 ('tt0093058','nm0000040','N'),
-	 ('tt0093058','nm0380282','N'),
-	 ('tt0093058','nm0368007','N'),
-	 ('tt0093058','nm0473588','N'),
-	 ('tt0093058','nm0005801','N'),
-	 ('tt0095016','nm0005428','N'),
 	 ('tt0095016','nm0000246','["John McClane"]'),
 	 ('tt0095016','nm0000614','["Hans Gruber"]'),
-	 ('tt0095016','nm0000889','["Holly Gennaro McClane"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0095016','nm0000889','["Holly Gennaro McClane"]'),
 	 ('tt0095016','nm0001817','["Sgt. Al Powell"]'),
-	 ('tt0095016','nm0001532','N'),
-	 ('tt0095016','nm0861636','N'),
-	 ('tt0095016','nm0835732','N'),
-	 ('tt0095016','nm0211823','N'),
-	 ('tt0095016','nm0330383','N'),
-	 ('tt0095327','nm0786707','N'),
 	 ('tt0095327','nm0851302','["Seita"]'),
 	 ('tt0095327','nm0794186','["Setsuko"]'),
-	 ('tt0095327','nm0945312','["Aunt"]');
+	 ('tt0095327','nm0945312','["Aunt"]'),
+	 ('tt0095327','nm0794002','["Mother"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0095327','nm0794002','["Mother"]'),
-	 ('tt0095327','nm0847223','N'),
-	 ('tt0095327','nm0636435','N'),
-	 ('tt0095327','nm0361701','N'),
-	 ('tt0095327','nm2197915','N'),
-	 ('tt0095327','nm0468710','N'),
-	 ('tt0095765','nm0005721','N'),
 	 ('tt0095765','nm0634159','["Alfredo"]'),
 	 ('tt0095765','nm0134073','["Spaccafico"]'),
-	 ('tt0095765','nm0041066','["Maria Di Vita - Younger"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0095765','nm0041066','["Maria Di Vita - Younger"]'),
 	 ('tt0095765','nm0199774','["Anna"]'),
-	 ('tt0095765','nm0868153','N'),
-	 ('tt0095765','nm0660031','N'),
-	 ('tt0095765','nm0188053','N'),
-	 ('tt0095765','nm0738603','N'),
-	 ('tt0095765','nm0001553','N'),
-	 ('tt0096283','nm0794174','N'),
 	 ('tt0096283','nm0847054','["Totoro"]'),
 	 ('tt0096283','nm0383022','["Satsuki"]'),
-	 ('tt0096283','nm0757076','["Mei"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0096283','nm0757076','["Mei"]'),
 	 ('tt0096283','nm0411790','["Tatsuo Kusakabe"]'),
-	 ('tt0096283','nm0594503','N'),
-	 ('tt0096283','nm0361701','N'),
-	 ('tt0096283','nm1566098','N'),
-	 ('tt0096283','nm0386749','N'),
-	 ('tt0096283','nm1147210','N'),
-	 ('tt0097165','nm0003574','N'),
 	 ('tt0097165','nm0000245','["John Keating"]'),
-	 ('tt0097165','nm0000494','["Neil Perry"]'),
-	 ('tt0097165','nm0000160','["Todd Anderson"]');
+	 ('tt0097165','nm0000494','["Neil Perry"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0097165','nm0000160','["Todd Anderson"]'),
 	 ('tt0097165','nm0001038','["Knox Overstreet"]'),
-	 ('tt0097165','nm0001837','N'),
-	 ('tt0097165','nm0776114','N'),
-	 ('tt0097165','nm0353187','N'),
-	 ('tt0097165','nm0432625','N'),
-	 ('tt0097165','nm0859597','N'),
-	 ('tt0097576','nm0915226','N'),
 	 ('tt0097576','nm0000148','["Indiana Jones"]'),
 	 ('tt0097576','nm0000125','["Professor Henry Jones"]'),
-	 ('tt0097576','nm0233145','["Elsa"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0097576','nm0233145','["Elsa"]'),
 	 ('tt0097576','nm0001186','["Marcus Brody"]'),
-	 ('tt0097576','nm0000229','N'),
-	 ('tt0097576','nm0090151','N'),
-	 ('tt0097576','nm0000184','N'),
-	 ('tt0097576','nm0583675','N'),
-	 ('tt0097576','nm0442241','N'),
-	 ('tt0099348','nm0556067','N'),
 	 ('tt0099348','nm0000126','["Lieutenant Dunbar"]'),
 	 ('tt0099348','nm0001521','["Stands With A Fist"]'),
-	 ('tt0099348','nm0001295','["Kicking Bird"]');
+	 ('tt0099348','nm0001295','["Kicking Bird"]'),
+	 ('tt0099348','nm0002110','["Wind In His Hair"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0099348','nm0002110','["Wind In His Hair"]'),
-	 ('tt0099348','nm0086658','N'),
-	 ('tt0099348','nm0933604','N'),
-	 ('tt0099348','nm0000290','N'),
-	 ('tt0099348','nm0005871','N'),
-	 ('tt0099348','nm0398343','N'),
-	 ('tt0099685','nm0774817','N'),
 	 ('tt0099685','nm0000134','["James Conway"]'),
 	 ('tt0099685','nm0000501','["Henry Hill"]'),
-	 ('tt0099685','nm0000582','["Tommy DeVito"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0099685','nm0000582','["Tommy DeVito"]'),
 	 ('tt0099685','nm0000966','["Karen Hill"]'),
-	 ('tt0099685','nm0000217','N'),
-	 ('tt0099685','nm0683380','N'),
-	 ('tt0099685','nm0005563','N'),
-	 ('tt0099685','nm0000841','N'),
-	 ('tt0099685','nm0477158','N'),
-	 ('tt0102926','nm0882588','N'),
 	 ('tt0102926','nm0000149','["Clarice Starling"]'),
 	 ('tt0102926','nm0000164','["Dr. Hannibal Lecter"]'),
-	 ('tt0102926','nm0095029','["FBI Instructor"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0102926','nm0095029','["FBI Instructor"]'),
 	 ('tt0102926','nm0501435','["Ardelia Mapp"]'),
-	 ('tt0102926','nm0001129','N'),
-	 ('tt0102926','nm0365383','N'),
-	 ('tt0102926','nm0848217','N'),
-	 ('tt0102926','nm0102508','N'),
-	 ('tt0102926','nm0768324','N'),
-	 ('tt0103064','nm0233827','N'),
 	 ('tt0103064','nm0000216','["The Terminator"]'),
-	 ('tt0103064','nm0000157','["Sarah Connor"]'),
-	 ('tt0103064','nm0000411','["John Connor"]');
+	 ('tt0103064','nm0000157','["Sarah Connor"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0103064','nm0000411','["John Connor"]'),
 	 ('tt0103064','nm0001598','["T-1000"]'),
-	 ('tt0103064','nm0000116','N'),
-	 ('tt0103064','nm0936537','N'),
-	 ('tt0103064','nm0006075','N'),
-	 ('tt0103064','nm0004229','N'),
-	 ('tt0103064','nm0119322','N'),
-	 ('tt0105236','nm0913300','N'),
 	 ('tt0105236','nm0000172','["Mr. White","Larry"]'),
 	 ('tt0105236','nm0000619','["Mr. Orange","Freddy"]'),
-	 ('tt0105236','nm0000514','["Mr. Blonde","Vic"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
+	 ('tt0105236','nm0000514','["Mr. Blonde","Vic"]'),
 	 ('tt0105236','nm0001606','["Nice Guy Eddie"]'),
-	 ('tt0105236','nm0000233','N'),
-	 ('tt0105236','nm0000812','N'),
-	 ('tt0105236','nm0004744','N'),
-	 ('tt0105236','nm0782900','N'),
-	 ('tt0105236','nm0579673','N'),
 	 ('tt0105695','nm0000142','["Bill Munny"]'),
 	 ('tt0105695','nm0000432','["Little Bill Daggett"]'),
 	 ('tt0105695','nm0000151','["Ned Logan"]'),
 	 ('tt0105695','nm0001321','["English Bob"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0105695','nm0672459','N'),
-	 ('tt0105695','nm0006215','N'),
-	 ('tt0105695','nm0005726','N'),
-	 ('tt0105695','nm0185088','N'),
-	 ('tt0105695','nm0120317','N'),
-	 ('tt0107048','nm0380670','N'),
 	 ('tt0107048','nm0000195','["Phil"]'),
 	 ('tt0107048','nm0000510','["Rita"]'),
 	 ('tt0107048','nm0254402','["Larry"]'),
-	 ('tt0107048','nm0864997','["Ned"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0107048','nm0000601','N'),
-	 ('tt0107048','nm0748035','N'),
-	 ('tt0107048','nm0016603','N'),
-	 ('tt0107048','nm0006070','N'),
-	 ('tt0107048','nm0007037','N'),
-	 ('tt0107207','nm0357421','N'),
+	 ('tt0107048','nm0864997','["Ned"]'),
 	 ('tt0107207','nm0000358','["Gerry Conlon"]'),
 	 ('tt0107207','nm0000592','["Giuseppe Conlon"]'),
 	 ('tt0107207','nm0188949','["Girl in Pub"]'),
-	 ('tt0107207','nm2535022','["Guildford Soldier"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0107207','nm0006487','N'),
-	 ('tt0107207','nm0174840','N'),
-	 ('tt0107207','nm0313623','N'),
-	 ('tt0107207','nm0002303','N'),
-	 ('tt0107207','nm0084695','N'),
-	 ('tt0107290','nm0002354','N'),
+	 ('tt0107207','nm2535022','["Guildford Soldier"]'),
 	 ('tt0107290','nm0000554','["Grant"]'),
-	 ('tt0107290','nm0000368','["Ellie"]'),
-	 ('tt0107290','nm0000156','["Malcolm"]'),
-	 ('tt0107290','nm0000277','["Hammond"]');
+	 ('tt0107290','nm0000368','["Ellie"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0107290','nm0000229','N'),
-	 ('tt0107290','nm0000341','N'),
-	 ('tt0107290','nm0462895','N'),
-	 ('tt0107290','nm0005086','N'),
-	 ('tt0107290','nm0596520','N'),
-	 ('tt0108052','nm0002354','N'),
+	 ('tt0107290','nm0000156','["Malcolm"]'),
+	 ('tt0107290','nm0000277','["Hammond"]'),
 	 ('tt0108052','nm0000553','["Oskar Schindler"]'),
 	 ('tt0108052','nm0000146','["Amon Goeth"]'),
 	 ('tt0108052','nm0001426','["Itzhak Stern"]'),
-	 ('tt0108052','nm0328751','["Emilie Schindler"]');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0108052','nm0000229','N'),
-	 ('tt0108052','nm0447745','N'),
-	 ('tt0108052','nm0001873','N'),
-	 ('tt0108052','nm0527322','N'),
-	 ('tt0108052','nm0596520','N'),
-	 ('tt0109830','nm0005494','N'),
+	 ('tt0108052','nm0328751','["Emilie Schindler"]'),
 	 ('tt0109830','nm0000158','["Forrest Gump"]'),
 	 ('tt0109830','nm0000705','["Jenny Curran"]'),
 	 ('tt0109830','nm0000641','["Lieutenant Dan Taylor"]'),
 	 ('tt0109830','nm0000398','["Mrs. Gump"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0109830','nm0000709','N'),
-	 ('tt0109830','nm0343165','N'),
-	 ('tt0109830','nm0744839','N'),
-	 ('tt0109830','nm0277704','N'),
-	 ('tt0109830','nm0823330','N'),
 	 ('tt0110413','nm0000606','["Leon"]'),
 	 ('tt0110413','nm0000198','["Stansfield"]'),
 	 ('tt0110413','nm0000204','["Mathilda"]'),
 	 ('tt0110413','nm0000732','["Tony"]'),
-	 ('tt0110413','nm0000108','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0110413','nm0785385','N'),
-	 ('tt0110413','nm0005636','N'),
-	 ('tt0110413','nm0484981','N'),
-	 ('tt0110413','nm0917942','N'),
-	 ('tt0110912','nm0913300','N'),
 	 ('tt0110912','nm0000237','["Vincent Vega"]'),
 	 ('tt0110912','nm0000235','["Mia Wallace"]'),
 	 ('tt0110912','nm0000168','["Jules Winnfield"]'),
 	 ('tt0110912','nm0000246','["Butch Coolidge"]'),
-	 ('tt0110912','nm0000233','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0110912','nm0000812','N'),
-	 ('tt0110912','nm0004744','N'),
-	 ('tt0110912','nm0782900','N'),
-	 ('tt0110912','nm0579673','N'),
-	 ('tt0111161','nm0290358','N'),
 	 ('tt0111161','nm0000209','["Andy Dufresne"]'),
-	 ('tt0111161','nm0000151','["Ellis Boyd ''Red'' Redding"]'),
+	 ('tt0111161','nm0000151','["Ellis Boyd ''Red'' Redding"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0111161','nm0348409','["Warden Norton"]'),
 	 ('tt0111161','nm0006669','["Heywood"]'),
-	 ('tt0111161','nm0001104','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0111161','nm0000175','N'),
-	 ('tt0111161','nm0555550','N'),
-	 ('tt0111161','nm0002353','N'),
-	 ('tt0111161','nm0005683','N'),
-	 ('tt0112471','nm0010471','N'),
 	 ('tt0112471','nm0000160','["Jesse"]'),
 	 ('tt0112471','nm0000365','["Céline"]'),
 	 ('tt0112471','nm0248600','["Wife on Train"]'),
 	 ('tt0112471','nm0702541','["Husband on Train"]'),
-	 ('tt0112471','nm0000500','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0112471','nm0471811','N'),
-	 ('tt0112471','nm0908323','N'),
-	 ('tt0112471','nm0295947','N'),
-	 ('tt0112471','nm0199679','N'),
-	 ('tt0112573','nm0742475','N'),
 	 ('tt0112573','nm0000154','["William Wallace"]'),
 	 ('tt0112573','nm0000521','["Princess Isabelle"]'),
 	 ('tt0112573','nm0001526','["Longshanks - King Edward I"]'),
-	 ('tt0112573','nm0005171','["Robert the Bruce"]'),
-	 ('tt0112573','nm0908824','N');
+	 ('tt0112573','nm0005171','["Robert the Bruce"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0112573','nm0202704','N'),
-	 ('tt0112573','nm0480440','N'),
-	 ('tt0112573','nm0000035','N'),
-	 ('tt0112573','nm0001799','N'),
-	 ('tt0112641','nm0274721','N'),
 	 ('tt0112641','nm0000134','["Sam ''Ace'' Rothstein"]'),
 	 ('tt0112641','nm0000232','["Ginger McKenna"]'),
 	 ('tt0112641','nm0000582','["Nicky Santoro"]'),
 	 ('tt0112641','nm0000249','["Lester Diamond"]'),
-	 ('tt0112641','nm0000217','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0112641','nm0683380','N'),
-	 ('tt0112641','nm0208381','N'),
-	 ('tt0112641','nm0724744','N'),
-	 ('tt0112641','nm0774817','N'),
-	 ('tt0113247','nm0690720','N'),
 	 ('tt0113247','nm0001993','["Vinz"]'),
 	 ('tt0113247','nm0468003','["Hubert"]'),
 	 ('tt0113247','nm0846548','["Saïd"]'),
 	 ('tt0113247','nm0315760','["Abdel"]'),
-	 ('tt0113247','nm0440913','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0113247','nm0744384','N'),
-	 ('tt0113247','nm1125169','N'),
-	 ('tt0113247','nm0044545','N'),
-	 ('tt0113247','nm0829054','N'),
-	 ('tt0113277','nm0325549','N'),
 	 ('tt0113277','nm0000199','["Lt. Vincent Hanna"]'),
-	 ('tt0113277','nm0000134','["Neil McCauley"]'),
+	 ('tt0113277','nm0000134','["Neil McCauley"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0113277','nm0000174','["Chris Shiherlis"]'),
 	 ('tt0113277','nm0000685','["Nate"]'),
-	 ('tt0113277','nm0000520','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0113277','nm0513165','N'),
-	 ('tt0113277','nm0006106','N'),
-	 ('tt0113277','nm0005883','N'),
-	 ('tt0113277','nm0117779','N'),
-	 ('tt0114369','nm0290358','N'),
 	 ('tt0114369','nm0000151','["Somerset"]'),
 	 ('tt0114369','nm0000093','["Mills"]'),
 	 ('tt0114369','nm0000228','["John Doe"]'),
 	 ('tt0114369','nm0001825','["Dead Man at 1st Crime Scene"]'),
-	 ('tt0114369','nm0000399','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0114369','nm0138287','N'),
-	 ('tt0114369','nm0465745','N'),
-	 ('tt0114369','nm0006290','N'),
-	 ('tt0114369','nm0451787','N'),
-	 ('tt0114709','nm0169505','N'),
 	 ('tt0114709','nm0000158','["Woody"]'),
 	 ('tt0114709','nm0000741','["Buzz Lightyear"]'),
 	 ('tt0114709','nm0725543','["Mr. Potato Head"]'),
-	 ('tt0114709','nm0001815','["Slinky Dog"]'),
-	 ('tt0114709','nm0005124','N');
+	 ('tt0114709','nm0001815','["Slinky Dog"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0114709','nm0230032','N'),
-	 ('tt0114709','nm0004056','N'),
-	 ('tt0114709','nm0710020','N'),
-	 ('tt0114709','nm0923736','N'),
-	 ('tt0114814','nm0191896','N'),
 	 ('tt0114814','nm0000228','["Verbal"]'),
 	 ('tt0114814','nm0000321','["Keaton"]'),
 	 ('tt0114814','nm0001590','["Dave Kujan"]'),
 	 ('tt0114814','nm0000286','["McManus"]'),
-	 ('tt0114814','nm0001741','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0114814','nm0003160','N'),
-	 ('tt0114814','nm0568120','N'),
-	 ('tt0114814','nm0653211','N'),
-	 ('tt0114814','nm0005875','N'),
-	 ('tt0117951','nm0386227','N'),
 	 ('tt0117951','nm0000191','["Renton"]'),
 	 ('tt0117951','nm0001971','["Spud"]'),
 	 ('tt0117951','nm0001538','["Sick Boy"]'),
 	 ('tt0117951','nm0571727','["Tommy"]'),
-	 ('tt0117951','nm0000965','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0117951','nm0920543','N'),
-	 ('tt0117951','nm0388076','N'),
-	 ('tt0117951','nm0531602','N'),
-	 ('tt0117951','nm0005909','N'),
-	 ('tt0118799','nm0005686','N'),
 	 ('tt0118799','nm0000905','["Guido"]'),
-	 ('tt0118799','nm0000971','["Dora"]'),
+	 ('tt0118799','nm0000971','["Dora"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0118799','nm0134493','["Giosué"]'),
 	 ('tt0118799','nm0243842','["Zio"]'),
-	 ('tt0118799','nm0148437','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0118799','nm0105346','N'),
-	 ('tt0118799','nm0001897','N'),
-	 ('tt0118799','nm0274754','N'),
-	 ('tt0118799','nm0003607','N'),
-	 ('tt0118849','nm0368359','N'),
 	 ('tt0118849','nm0619870','["Ali''s Father"]'),
 	 ('tt0118849','nm0268488','["Ali"]'),
 	 ('tt0118849','nm0781245','["Zahra"]'),
 	 ('tt0118849','nm0415412','["Roya"]'),
-	 ('tt0118849','nm0006498','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0118849','nm0260556','N'),
-	 ('tt0118849','nm0260557','N'),
-	 ('tt0118849','nm0415663','N'),
-	 ('tt0118849','nm0539342','N'),
-	 ('tt0119217','nm0829681','N'),
 	 ('tt0119217','nm0000245','["Sean"]'),
 	 ('tt0119217','nm0000354','["Will"]'),
 	 ('tt0119217','nm0000255','["Chuckie"]'),
-	 ('tt0119217','nm0001745','["Lambeau"]'),
-	 ('tt0119217','nm0001814','N');
+	 ('tt0119217','nm0001745','["Lambeau"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0119217','nm0004744','N'),
-	 ('tt0119217','nm0000384','N'),
-	 ('tt0119217','nm0260389','N'),
-	 ('tt0119217','nm0768817','N'),
-	 ('tt0119488','nm0000025','N'),
 	 ('tt0119488','nm0000228','["Jack Vincennes"]'),
 	 ('tt0119488','nm0000128','["Bud White"]'),
 	 ('tt0119488','nm0001602','["Ed Exley"]'),
 	 ('tt0119488','nm0000107','["Lynn Bracken"]'),
-	 ('tt0119488','nm0000436','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0119488','nm0255278','N'),
-	 ('tt0119488','nm0001338','N'),
-	 ('tt0119488','nm0586969','N'),
-	 ('tt0119488','nm0622296','N'),
-	 ('tt0119698','nm0786707','N'),
 	 ('tt0119698','nm0559444','["Ashitaka"]'),
 	 ('tt0119698','nm0410942','["San","Mononoke-Hime","Kaya"]'),
 	 ('tt0119698','nm0849100','["Eboshi-gozen"]'),
 	 ('tt0119698','nm0001082','["Ashitaka"]'),
-	 ('tt0119698','nm0594503','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0119698','nm0301274','N'),
-	 ('tt0119698','nm0840699','N'),
-	 ('tt0119698','nm0386749','N'),
-	 ('tt0119698','nm0645777','N'),
-	 ('tt0120382','nm0902129','N'),
 	 ('tt0120382','nm0000120','["Truman Burbank"]'),
-	 ('tt0120382','nm0000438','["Christof"]'),
+	 ('tt0120382','nm0000438','["Christof"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0120382','nm0001473','["Meryl Burbank","Hannah Gill"]'),
 	 ('tt0120382','nm0001187','["Marlon"]'),
-	 ('tt0120382','nm0001837','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0120382','nm0629272','N'),
-	 ('tt0120382','nm0271026','N'),
-	 ('tt0120382','nm0748784','N'),
-	 ('tt0120382','nm0775443','N'),
-	 ('tt0120586','nm0374189','N'),
 	 ('tt0120586','nm0001570','["Derek"]'),
 	 ('tt0120586','nm0000411','["Danny"]'),
 	 ('tt0120586','nm0000350','["Doris"]'),
 	 ('tt0120586','nm0000497','["Davina"]'),
-	 ('tt0120586','nm0443411','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0120586','nm0571346','N'),
-	 ('tt0120586','nm0554204','N'),
-	 ('tt0120586','nm0006050','N'),
-	 ('tt0120586','nm0338513','N'),
-	 ('tt0120689','nm0290358','N'),
 	 ('tt0120689','nm0000158','["Paul Edgecomb"]'),
 	 ('tt0120689','nm0003817','["John Coffey"]'),
 	 ('tt0120689','nm0001556','["Brutus ''Brutal'' Howell"]'),
-	 ('tt0120689','nm0001372','["Jan Edgecomb"]'),
-	 ('tt0120689','nm0001104','N');
+	 ('tt0120689','nm0001372','["Jan Edgecomb"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0120689','nm0000175','N'),
-	 ('tt0120689','nm0883603','N'),
-	 ('tt0120689','nm0002353','N'),
-	 ('tt0120689','nm0005897','N'),
-	 ('tt0120735','nm0398167','N'),
 	 ('tt0120735','nm0002076','["Tom"]'),
 	 ('tt0120735','nm0002077','["Soap"]'),
 	 ('tt0120735','nm0602941','["Eddy"]'),
 	 ('tt0120735','nm0005458','["Bacon"]'),
-	 ('tt0120735','nm0005363','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0120735','nm0891216','N'),
-	 ('tt0120735','nm0400542','N'),
-	 ('tt0120735','nm0614373','N'),
-	 ('tt0120735','nm0362165','N'),
-	 ('tt0120737','nm0761744','N'),
 	 ('tt0120737','nm0000704','["Frodo"]'),
 	 ('tt0120737','nm0005212','["Gandalf"]'),
 	 ('tt0120737','nm0089217','["Legolas"]'),
 	 ('tt0120737','nm0000293','["Boromir"]'),
-	 ('tt0120737','nm0001392','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0120737','nm0866058','N'),
-	 ('tt0120737','nm0909638','N'),
-	 ('tt0120737','nm0101991','N'),
-	 ('tt0120737','nm0651614','N'),
-	 ('tt0120815','nm0002354','N'),
 	 ('tt0120815','nm0000158','["Captain Miller"]'),
-	 ('tt0120815','nm0000354','["Private Ryan"]'),
+	 ('tt0120815','nm0000354','["Private Ryan"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0120815','nm0001744','["Sergeant Horvath"]'),
 	 ('tt0120815','nm0122653','["Private Reiben"]'),
-	 ('tt0120815','nm0000229','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0120815','nm0734441','N'),
-	 ('tt0120815','nm0117290','N'),
-	 ('tt0120815','nm0330428','N'),
-	 ('tt0120815','nm0506013','N'),
-	 ('tt0129167','nm0005197','N'),
 	 ('tt0129167','nm0547349','["Hogarth Hughes"]'),
 	 ('tt0129167','nm0001065','["Dean McCoppin"]'),
 	 ('tt0129167','nm0000098','["Annie Hughes"]'),
 	 ('tt0129167','nm0004874','["The Iron Giant"]'),
-	 ('tt0129167','nm0083348','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0129167','nm0564827','N'),
-	 ('tt0129167','nm0400954','N'),
-	 ('tt0129167','nm0286715','N'),
-	 ('tt0129167','nm0007831','N'),
-	 ('tt0137523','nm0513165','N'),
 	 ('tt0137523','nm0000093','["Tyler Durden"]'),
 	 ('tt0137523','nm0001570','["Narrator"]'),
 	 ('tt0137523','nm0001533','["Robert Paulsen"]'),
-	 ('tt0137523','nm0340260','["Richard Chesler (Regional Manager)"]'),
-	 ('tt0137523','nm0000399','N');
+	 ('tt0137523','nm0340260','["Richard Chesler (Regional Manager)"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0137523','nm0657333','N'),
-	 ('tt0137523','nm0880243','N'),
-	 ('tt0137523','nm0068501','N'),
-	 ('tt0137523','nm0149556','N'),
-	 ('tt0167260','nm0651614','N'),
 	 ('tt0167260','nm0000704','["Frodo"]'),
 	 ('tt0167260','nm0001557','["Aragorn"]'),
 	 ('tt0167260','nm0005212','["Gandalf"]'),
 	 ('tt0167260','nm0089217','["Legolas"]'),
-	 ('tt0167260','nm0001392','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0167260','nm0866058','N'),
-	 ('tt0167260','nm0909638','N'),
-	 ('tt0167260','nm0101991','N'),
-	 ('tt0167260','nm8662749','N'),
-	 ('tt0167261','nm8662749','N'),
 	 ('tt0167261','nm0000704','["Frodo"]'),
 	 ('tt0167261','nm0005212','["Gandalf"]'),
 	 ('tt0167261','nm0001557','["Aragorn"]'),
 	 ('tt0167261','nm0089217','["Legolas"]'),
-	 ('tt0167261','nm0001392','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0167261','nm0866058','N'),
-	 ('tt0167261','nm0909638','N'),
-	 ('tt0167261','nm0101991','N'),
-	 ('tt0167261','nm0801728','N'),
-	 ('tt0167404','nm0005714','N'),
 	 ('tt0167404','nm0000246','["Malcolm Crowe"]'),
-	 ('tt0167404','nm0005286','["Cole Sear"]'),
+	 ('tt0167404','nm0005286','["Cole Sear"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0167404','nm0001057','["Lynn Sear"]'),
 	 ('tt0167404','nm0931404','["Anna Crowe"]'),
-	 ('tt0167404','nm0796117','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0167404','nm0005086','N'),
-	 ('tt0167404','nm0550881','N'),
-	 ('tt0167404','nm0578814','N'),
-	 ('tt0167404','nm0006133','N'),
-	 ('tt0169547','nm0005734','N'),
 	 ('tt0169547','nm0000228','["Lester Burnham"]'),
 	 ('tt0169547','nm0000906','["Carolyn Burnham"]'),
 	 ('tt0169547','nm0000301','["Jane Burnham"]'),
 	 ('tt0169547','nm0004747','["Ricky Fitts"]'),
-	 ('tt0169547','nm0005222','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0169547','nm0050332','N'),
-	 ('tt0169547','nm0169260','N'),
-	 ('tt0169547','nm0423134','N'),
-	 ('tt0169547','nm0002353','N'),
-	 ('tt0172495','nm0926824','N'),
 	 ('tt0172495','nm0000128','["Maximus"]'),
 	 ('tt0172495','nm0001618','["Commodus"]'),
 	 ('tt0172495','nm0001567','["Lucilla"]'),
-	 ('tt0172495','nm0001657','["Proximo"]'),
-	 ('tt0172495','nm0000631','N');
+	 ('tt0172495','nm0001657','["Proximo"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0172495','nm0291905','N'),
-	 ('tt0172495','nm0517589','N'),
-	 ('tt0172495','nm0629933','N'),
-	 ('tt0172495','nm0527322','N'),
-	 ('tt0180093','nm0508732','N'),
 	 ('tt0180093','nm0000995','["Sara Goldfarb"]'),
 	 ('tt0180093','nm0001467','["Harry Goldfarb"]'),
 	 ('tt0180093','nm0000124','["Marion Silver"]'),
 	 ('tt0180093','nm0005541','["Tyrone C. Love"]'),
-	 ('tt0180093','nm0004716','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0180093','nm0782968','N'),
-	 ('tt0180093','nm0914615','N'),
-	 ('tt0180093','nm0922279','N'),
-	 ('tt0180093','nm0543739','N'),
-	 ('tt0208092','nm0524829','N'),
 	 ('tt0208092','nm0005458','["Turkish"]'),
 	 ('tt0208092','nm0000093','["Mickey O''Neil"]'),
 	 ('tt0208092','nm0334318','["Tommy"]'),
 	 ('tt0208092','nm0005068','["Bullet-Tooth Tony"]'),
-	 ('tt0208092','nm0005363','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0208092','nm0891216','N'),
-	 ('tt0208092','nm0614373','N'),
-	 ('tt0208092','nm0362165','N'),
-	 ('tt0208092','nm1154184','N'),
-	 ('tt0209144','nm0002892','N'),
 	 ('tt0209144','nm0001602','["Leonard"]'),
-	 ('tt0209144','nm0005251','["Natalie"]'),
+	 ('tt0209144','nm0005251','["Natalie"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0209144','nm0001592','["Teddy"]'),
 	 ('tt0209144','nm0095478','["Burt"]'),
-	 ('tt0209144','nm0634240','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0209144','nm0634300','N'),
-	 ('tt0209144','nm0865189','N'),
-	 ('tt0209144','nm0865297','N'),
-	 ('tt0209144','nm0432382','N'),
-	 ('tt0211915','nm0773685','N'),
 	 ('tt0211915','nm0851582','["Amélie Poulain"]'),
 	 ('tt0211915','nm0440913','["Nino Quincampoix"]'),
 	 ('tt0211915','nm0749363','["Raphaël Poulain"]'),
 	 ('tt0211915','nm0186677','["Amandine Poulain"]'),
-	 ('tt0211915','nm0000466','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0211915','nm0491011','N'),
-	 ('tt0211915','nm0652226','N'),
-	 ('tt0211915','nm0862961','N'),
-	 ('tt0211915','nm0216632','N'),
-	 ('tt0245429','nm0645777','N'),
 	 ('tt0245429','nm0153738','["Chihiro"]'),
 	 ('tt0245429','nm0687189','["Yubaba","Zeniba"]'),
 	 ('tt0245429','nm0997115','["Haku"]'),
-	 ('tt0245429','nm0383708','["Chihiro Ogino","Sen"]'),
-	 ('tt0245429','nm0594503','N');
+	 ('tt0245429','nm0383708','["Chihiro Ogino","Sen"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0245429','nm0259689','N'),
-	 ('tt0245429','nm0005124','N'),
-	 ('tt0245429','nm0840699','N'),
-	 ('tt0245429','nm0386749','N'),
-	 ('tt0245712','nm0702036','N'),
 	 ('tt0245712','nm0248408','["El Chivo"]'),
 	 ('tt0245712','nm0305558','["Octavio"]'),
 	 ('tt0245712','nm0865949','["Valeria"]'),
 	 ('tt0245712','nm0346270','["Daniel"]'),
-	 ('tt0245712','nm0327944','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0245712','nm0037247','N'),
-	 ('tt0245712','nm0763395','N'),
-	 ('tt0245712','nm0006509','N'),
-	 ('tt0245712','nm0136057','N'),
-	 ('tt0253474','nm0004384','N'),
 	 ('tt0253474','nm0004778','["Wladyslaw Szpilman"]'),
 	 ('tt0253474','nm0470981','["Captain Wilm Hosenfeld"]'),
 	 ('tt0253474','nm0277975','["Father"]'),
 	 ('tt0253474','nm0288976','["Dorota"]'),
-	 ('tt0253474','nm0000591','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0253474','nm0367838','N'),
-	 ('tt0253474','nm0844262','N'),
-	 ('tt0253474','nm0071452','N'),
-	 ('tt0253474','nm0764963','N'),
-	 ('tt0264464','nm0002354','N'),
 	 ('tt0264464','nm0000138','["Frank Abagnale Jr."]'),
-	 ('tt0264464','nm0000158','["Carl Hanratty"]'),
+	 ('tt0264464','nm0000158','["Carl Hanratty"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0264464','nm0000686','["Frank Abagnale"]'),
 	 ('tt0264464','nm0000640','["Roger Strong"]'),
-	 ('tt0264464','nm0000229','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0264464','nm0622288','N'),
-	 ('tt0264464','nm0007646','N'),
-	 ('tt0264464','nm1127221','N'),
-	 ('tt0264464','nm0662748','N'),
-	 ('tt0266697','nm0849222','N'),
 	 ('tt0266697','nm0000235','["The Bride"]'),
 	 ('tt0266697','nm0001016','["Bill"]'),
 	 ('tt0266697','nm0000435','["Elle Driver"]'),
 	 ('tt0266697','nm0000514','["Budd"]'),
-	 ('tt0266697','nm0000233','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0266697','nm0004744','N'),
-	 ('tt0266697','nm0753526','N'),
-	 ('tt0266697','nm0724744','N'),
-	 ('tt0266697','nm0579673','N'),
-	 ('tt0268978','nm0005683','N'),
 	 ('tt0268978','nm0000128','["John Nash"]'),
 	 ('tt0268978','nm0000438','["Parcher"]'),
 	 ('tt0268978','nm0000124','["Alicia Nash"]'),
-	 ('tt0268978','nm0001626','["Dr. Rosen"]'),
-	 ('tt0268978','nm0000165','N');
+	 ('tt0268978','nm0001626','["Dr. Rosen"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0268978','nm0326040','N'),
-	 ('tt0268978','nm0621586','N'),
-	 ('tt0268978','nm0004976','N'),
-	 ('tt0268978','nm0000035','N'),
-	 ('tt0317705','nm0524796','N'),
 	 ('tt0317705','nm0005266','["Bob Parr","Mr. Incredible"]'),
 	 ('tt0317705','nm0000168','["Lucius Best","Frozone"]'),
 	 ('tt0317705','nm0000456','["Helen Parr","Elastigirl"]'),
 	 ('tt0317705','nm0005134','["Buddy Pine","Syndrome"]'),
-	 ('tt0317705','nm0083348','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0317705','nm0907869','N'),
-	 ('tt0317705','nm0315974','N'),
-	 ('tt0317705','nm1285750','N'),
-	 ('tt0317705','nm0510936','N'),
-	 ('tt0325980','nm0000988','N'),
 	 ('tt0325980','nm0000136','["Jack Sparrow"]'),
 	 ('tt0325980','nm0001691','["Barbossa"]'),
 	 ('tt0325980','nm0089217','["Will Turner"]'),
 	 ('tt0325980','nm0461136','["Elizabeth Swann"]'),
-	 ('tt0325980','nm0893659','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0325980','nm0254645','N'),
-	 ('tt0325980','nm0744429','N'),
-	 ('tt0325980','nm0064181','N'),
-	 ('tt0325980','nm0938684','N'),
-	 ('tt0338013','nm0109726','N'),
 	 ('tt0338013','nm0000120','["Joel Barish"]'),
-	 ('tt0338013','nm0000701','["Clementine Kruczynski"]'),
+	 ('tt0338013','nm0000701','["Clementine Kruczynski"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0338013','nm0929489','["Dr. Mierzwiak"]'),
 	 ('tt0338013','nm0004423','["Train Conductor"]'),
-	 ('tt0338013','nm0327273','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0338013','nm0442109','N'),
-	 ('tt0338013','nm1410028','N'),
-	 ('tt0338013','nm0106835','N'),
-	 ('tt0338013','nm0326512','N'),
-	 ('tt0347149','nm0386749','N'),
 	 ('tt0347149','nm0047962','["Sofî"]'),
 	 ('tt0347149','nm0454120','["Hauru"]'),
 	 ('tt0347149','nm0309107','["Karushifâ"]'),
 	 ('tt0347149','nm0594271','["Arechi no Majo"]'),
-	 ('tt0347149','nm0594503','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0347149','nm1168510','N'),
-	 ('tt0347149','nm0218760','N'),
-	 ('tt0347149','nm1566098','N'),
-	 ('tt0347149','nm0840699','N'),
-	 ('tt0353969','nm1396406','N'),
 	 ('tt0353969','nm0814280','["Detective Park Doo-man"]'),
 	 ('tt0353969','nm1235292','["Detective Seo Tae-yoon"]'),
 	 ('tt0353969','nm1323287','["Detective Cho Yong-koo"]'),
-	 ('tt0353969','nm1138201','["Sergeant Shin Dong-chul"]'),
-	 ('tt0353969','nm0094435','N');
+	 ('tt0353969','nm1138201','["Sergeant Shin Dong-chul"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0353969','nm1323286','N'),
-	 ('tt0353969','nm1646563','N'),
-	 ('tt0353969','nm0149223','N'),
-	 ('tt0353969','nm0453617','N'),
 	 ('tt0361748','nm0000093','["Lt. Aldo Raine"]'),
 	 ('tt0361748','nm1208167','["Bridget von Hammersmark"]'),
 	 ('tt0361748','nm0744834','["Sgt. Donny Donowitz"]'),
 	 ('tt0361748','nm0491259','["Shosanna"]'),
-	 ('tt0361748','nm0000233','N'),
-	 ('tt0361748','nm0004744','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0361748','nm0724744','N'),
-	 ('tt0361748','nm0579673','N'),
-	 ('tt0361748','nm0913300','N'),
-	 ('tt0363163','nm0951598','N'),
 	 ('tt0363163','nm0004486','["Adolf Hitler"]'),
 	 ('tt0363163','nm0487884','["Traudl Junge"]'),
 	 ('tt0363163','nm0559890','["Joseph Goebbels"]'),
 	 ('tt0363163','nm0477810','["Eva Braun"]'),
-	 ('tt0363163','nm0386570','N'),
-	 ('tt0363163','nm0251536','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0363163','nm0275264','N'),
-	 ('tt0363163','nm0432622','N'),
-	 ('tt0363163','nm0612199','N'),
-	 ('tt0364569','nm0997224','N'),
 	 ('tt0364569','nm0158856','["Dae-su Oh"]'),
-	 ('tt0364569','nm0949167','["Woo-jin Lee"]'),
+	 ('tt0364569','nm0949167','["Woo-jin Lee"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0364569','nm1367246','["Mi-do"]'),
 	 ('tt0364569','nm1366028','["Mr. Han"]'),
-	 ('tt0364569','nm0661791','N'),
-	 ('tt0364569','nm1628380','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0364569','nm2057405','N'),
-	 ('tt0364569','nm1367409','N'),
-	 ('tt0364569','nm1369364','N'),
-	 ('tt0372784','nm0746273','N'),
 	 ('tt0372784','nm0000288','["Bruce Wayne","Batman"]'),
 	 ('tt0372784','nm0000323','["Alfred"]'),
 	 ('tt0372784','nm0913822','["Ra''s Al Ghul"]'),
 	 ('tt0372784','nm0000553','["Ducard"]'),
-	 ('tt0372784','nm0634240','N'),
-	 ('tt0372784','nm0004170','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0372784','nm0275286','N'),
-	 ('tt0372784','nm0290581','N'),
-	 ('tt0372784','nm0650038','N'),
-	 ('tt0381681','nm0322204','N'),
 	 ('tt0381681','nm0000160','["Jesse"]'),
 	 ('tt0381681','nm0000365','["Celine"]'),
 	 ('tt0381681','nm0229943','["Bookstore Manager"]'),
-	 ('tt0381681','nm1195302','["Journalist #1"]'),
-	 ('tt0381681','nm0000500','N'),
-	 ('tt0381681','nm0471811','N');
+	 ('tt0381681','nm1195302','["Journalist #1"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0381681','nm0908323','N'),
-	 ('tt0381681','nm0199679','N'),
-	 ('tt0381681','nm0010471','N'),
-	 ('tt0395169','nm0345991','N'),
 	 ('tt0395169','nm0000332','["Paul Rusesabagina"]'),
 	 ('tt0395169','nm0645683','["Tatiana Rusesabagina"]'),
 	 ('tt0395169','nm0001618','["Jack Daglish"]'),
 	 ('tt0395169','nm1796730','["Policeman"]'),
-	 ('tt0395169','nm0313623','N'),
-	 ('tt0395169','nm0669311','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0395169','nm0457715','N'),
-	 ('tt0395169','nm2148374','N'),
-	 ('tt0395169','nm0340003','N'),
-	 ('tt0405094','nm0091686','N'),
 	 ('tt0405094','nm0618057','["Hauptmann Gerd Wiesler"]'),
 	 ('tt0405094','nm0311476','["Christa-Maria Sieland"]'),
 	 ('tt0405094','nm0462407','["Georg Dreyman"]'),
 	 ('tt0405094','nm0876300','["Oberstleutnant Anton Grubitz"]'),
-	 ('tt0405094','nm0003697','N'),
-	 ('tt0405094','nm0073875','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0405094','nm0927270','N'),
-	 ('tt0405094','nm1098869','N'),
-	 ('tt0405094','nm0001189','N'),
-	 ('tt0405159','nm0185088','N'),
 	 ('tt0405159','nm0005476','["Maggie Fitzgerald"]'),
-	 ('tt0405159','nm0000142','["Frankie Dunn"]'),
+	 ('tt0405159','nm0000142','["Frankie Dunn"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0405159','nm0000151','["Eddie Scrap-Iron Dupris"]'),
 	 ('tt0405159','nm0059431','["Danger Barch"]'),
-	 ('tt0405159','nm0353673','N'),
-	 ('tt0405159','nm0101801','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0405159','nm0742347','N'),
-	 ('tt0405159','nm0748665','N'),
-	 ('tt0405159','nm0827869','N'),
-	 ('tt0407887','nm0454752','N'),
 	 ('tt0407887','nm0000138','["Billy"]'),
 	 ('tt0407887','nm0000354','["Colin"]'),
 	 ('tt0407887','nm0000197','["Costello"]'),
 	 ('tt0407887','nm0000242','["Dignam"]'),
-	 ('tt0407887','nm0000217','N'),
-	 ('tt0407887','nm1184258','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0407887','nm0538320','N'),
-	 ('tt0407887','nm0159039','N'),
-	 ('tt0407887','nm0340522','N'),
-	 ('tt0434409','nm0650038','N'),
 	 ('tt0434409','nm0915989','["V"]'),
 	 ('tt0434409','nm0000204','["Evey"]'),
 	 ('tt0434409','nm0001291','["Dominic"]'),
-	 ('tt0434409','nm0001653','["Finch"]'),
-	 ('tt0434409','nm0574625','N'),
-	 ('tt0434409','nm0905152','N');
+	 ('tt0434409','nm0001653','["Finch"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0434409','nm0905154','N'),
-	 ('tt0434409','nm2331222','N'),
-	 ('tt0434409','nm0384294','N'),
-	 ('tt0435761','nm0005271','N'),
 	 ('tt0435761','nm0000158','["Woody"]'),
 	 ('tt0435761','nm0000741','["Buzz Lightyear"]'),
 	 ('tt0435761','nm0000349','["Jessie"]'),
 	 ('tt0435761','nm0000885','["Lotso"]'),
-	 ('tt0435761','nm0881279','N'),
-	 ('tt0435761','nm0005124','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0435761','nm0004056','N'),
-	 ('tt0435761','nm1578335','N'),
-	 ('tt0435761','nm0026565','N'),
-	 ('tt0457430','nm0622782','N'),
 	 ('tt0457430','nm1419440','["Ofelia"]'),
 	 ('tt0457430','nm0317725','["Carmen"]'),
 	 ('tt0457430','nm0530365','["Vidal"]'),
 	 ('tt0457430','nm0893941','["Mercedes"]'),
-	 ('tt0457430','nm0868219','N'),
-	 ('tt0457430','nm1973308','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0457430','nm0190859','N'),
-	 ('tt0457430','nm0622838','N'),
-	 ('tt0457430','nm0868872','N'),
-	 ('tt0468569','nm0746273','N'),
 	 ('tt0468569','nm0000288','["Bruce Wayne"]'),
-	 ('tt0468569','nm0005132','["Joker"]'),
+	 ('tt0468569','nm0005132','["Joker"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0468569','nm0001173','["Harvey Dent"]'),
 	 ('tt0468569','nm0000323','["Alfred"]'),
-	 ('tt0468569','nm0634240','N'),
-	 ('tt0468569','nm0634300','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0468569','nm0275286','N'),
-	 ('tt0468569','nm0004170','N'),
-	 ('tt0468569','nm0650038','N'),
-	 ('tt0469494','nm0005696','N'),
 	 ('tt0469494','nm0000358','["Daniel Plainview"]'),
 	 ('tt0469494','nm0200452','["Paul Sunday","Eli Sunday"]'),
 	 ('tt0469494','nm0001354','["Fletcher"]'),
 	 ('tt0469494','nm2872491','["Silver Assay Worker"]'),
-	 ('tt0469494','nm0000759','N'),
-	 ('tt0469494','nm0801737','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0469494','nm0526917','N'),
-	 ('tt0469494','nm0783280','N'),
-	 ('tt0469494','nm0339351','N'),
 	 ('tt0476735','nm1002038','["Hüseyin"]'),
 	 ('tt0476735','nm0476334','["Sadik"]'),
 	 ('tt0476735','nm0406157','["Nuran"]'),
-	 ('tt0476735','nm2020015','["Deniz"]'),
-	 ('tt0476735','nm1463981','N'),
-	 ('tt0476735','nm1699911','N'),
-	 ('tt0476735','nm0714377','N');
+	 ('tt0476735','nm2020015','["Deniz"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0476735','nm2122662','N'),
-	 ('tt0476735','nm2243405','N'),
-	 ('tt0482571','nm0432382','N'),
 	 ('tt0482571','nm0000288','["Alfred Borden"]'),
 	 ('tt0482571','nm0413168','["Robert Angier"]'),
 	 ('tt0482571','nm0424060','["Olivia Wenscombe"]'),
 	 ('tt0482571','nm0000323','["Cutter"]'),
-	 ('tt0482571','nm0634240','N'),
-	 ('tt0482571','nm0634300','N'),
-	 ('tt0482571','nm1793993','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0482571','nm0753083','N'),
-	 ('tt0482571','nm0858799','N'),
-	 ('tt0758758','nm1813015','N'),
 	 ('tt0758758','nm0386472','["Chris McCandless"]'),
 	 ('tt0758758','nm0000681','["Wayne Westerberg"]'),
 	 ('tt0758758','nm0001416','["Jan Burres"]'),
 	 ('tt0758758','nm0001315','["Billie McCandless"]'),
-	 ('tt0758758','nm0000576','N'),
-	 ('tt0758758','nm1040556','N'),
-	 ('tt0758758','nm0513165','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0758758','nm0688361','N'),
-	 ('tt0758758','nm0111649','N'),
-	 ('tt0816692','nm0887227','N'),
 	 ('tt0816692','nm0000190','["Cooper"]'),
-	 ('tt0816692','nm0004266','["Brand"]'),
+	 ('tt0816692','nm0004266','["Brand"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt0816692','nm1567113','["Murph"]'),
 	 ('tt0816692','nm3237775','["Murph (10 Yrs.)"]'),
-	 ('tt0816692','nm0634240','N'),
-	 ('tt0816692','nm0634300','N'),
-	 ('tt0816692','nm0643553','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0816692','nm0858799','N'),
-	 ('tt0816692','nm0001877','N'),
-	 ('tt0910970','nm0742276','N'),
 	 ('tt0910970','nm0123785','["WALL·E","M-O","Robots"]'),
 	 ('tt0910970','nm2264184','["EVE"]'),
 	 ('tt0910970','nm0307531','["Captain"]'),
 	 ('tt0910970','nm0929609','["Shelby Forthright"]'),
-	 ('tt0910970','nm0004056','N'),
-	 ('tt0910970','nm0230032','N'),
-	 ('tt0910970','nm0714114','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0910970','nm0606640','N'),
-	 ('tt0910970','nm0002353','N'),
 	 ('tt0978762','nm0001057','["Mary Daisy Dinkle"]'),
 	 ('tt0978762','nm0000450','["Max Jerry Horovitz"]'),
 	 ('tt0978762','nm0051509','["Damien Popodopolous"]'),
-	 ('tt0978762','nm0402032','["Narrator"]'),
-	 ('tt0978762','nm0254178','N'),
-	 ('tt0978762','nm0177707','N'),
-	 ('tt0978762','nm1244349','N'),
-	 ('tt0978762','nm2756662','N');
+	 ('tt0978762','nm0402032','["Narrator"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0978762','nm0614107','N'),
-	 ('tt0993846','nm0863374','N'),
 	 ('tt0993846','nm0000138','["Jordan Belfort"]'),
 	 ('tt0993846','nm1706767','["Donnie Azoff"]'),
 	 ('tt0993846','nm3053338','["Naomi Lapaglia"]'),
 	 ('tt0993846','nm0000190','["Mark Hanna"]'),
-	 ('tt0993846','nm0000217','N'),
-	 ('tt0993846','nm1010540','N'),
-	 ('tt0993846','nm0067789','N'),
-	 ('tt0993846','nm4265383','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt0993846','nm2110175','N'),
-	 ('tt1028532','nm0434222','N'),
 	 ('tt1028532','nm0000152','["Parker Wilson"]'),
 	 ('tt1028532','nm0000260','["Cate Wilson"]'),
 	 ('tt1028532','nm0846480','["Ken"]'),
 	 ('tt1028532','nm2105255','["Andy"]'),
-	 ('tt1028532','nm0002120','N'),
-	 ('tt1028532','nm2124742','N'),
-	 ('tt1028532','nm0793881','N'),
-	 ('tt1028532','nm0426440','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt1028532','nm2663731','N'),
-	 ('tt1130884','nm1103781','N'),
 	 ('tt1130884','nm0000138','["Teddy Daniels"]'),
-	 ('tt1130884','nm0607865','["Rachel 1"]'),
+	 ('tt1130884','nm0607865','["Rachel 1"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt1130884','nm0749263','["Chuck Aule"]'),
 	 ('tt1130884','nm0001426','["Dr. Cawley"]'),
-	 ('tt1130884','nm0000217','N'),
-	 ('tt1130884','nm0436164','N'),
-	 ('tt1130884','nm1212331','N'),
-	 ('tt1130884','nm1329482','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt1130884','nm0005219','N'),
-	 ('tt1187043','nm3760517','N'),
 	 ('tt1187043','nm0451148','["Ranchoddas Shamaldas Chanchad (Rancho)","Phunsukh Wangdu"]'),
 	 ('tt1187043','nm0534856','["Farhan Qureshi"]'),
 	 ('tt1187043','nm1587175','["Mona Sahastrabuddhe"]'),
 	 ('tt1187043','nm0430817','["Raju Rastogi"]'),
-	 ('tt1187043','nm0386246','N'),
-	 ('tt1187043','nm0430785','N'),
-	 ('tt1187043','nm0006765','N'),
-	 ('tt1187043','nm2746459','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt1187043','nm0596240','N'),
-	 ('tt1201607','nm0006035','N'),
 	 ('tt1201607','nm0705356','["Harry Potter"]'),
 	 ('tt1201607','nm0914612','["Hermione Granger"]'),
 	 ('tt1201607','nm0342488','["Ron Weasley"]'),
-	 ('tt1201607','nm0002091','["Professor Albus Dumbledore"]'),
-	 ('tt1201607','nm0946734','N'),
-	 ('tt1201607','nm0460141','N'),
-	 ('tt1201607','nm0746830','N'),
-	 ('tt1201607','nm0057655','N');
+	 ('tt1201607','nm0002091','["Professor Albus Dumbledore"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt1201607','nm0382268','N'),
-	 ('tt1205489','nm0828630','N'),
 	 ('tt1205489','nm0000142','["Walt Kowalski"]'),
 	 ('tt1205489','nm3057402','["Thao"]'),
 	 ('tt1205489','nm1542291','["Father Janovich"]'),
 	 ('tt1205489','nm3115704','["Sue"]'),
-	 ('tt1205489','nm1010405','N'),
-	 ('tt1205489','nm3164738','N'),
-	 ('tt1205489','nm0314088','N'),
-	 ('tt1205489','nm0520749','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt1205489','nm0247762','N'),
-	 ('tt1255953','nm1055564','N'),
 	 ('tt1255953','nm0044073','["Nawal Marwan"]'),
 	 ('tt1255953','nm0246386','["Jeanne Marwan"]'),
 	 ('tt1255953','nm0309945','["Simon Marwan"]'),
 	 ('tt1255953','nm1323233','["Barbier de la Milice","Officer Milice Chrétienne"]'),
-	 ('tt1255953','nm0898288','N'),
-	 ('tt1255953','nm1416431','N'),
-	 ('tt1255953','nm4034068','N'),
-	 ('tt1255953','nm0246404','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt1255953','nm0566919','N'),
-	 ('tt1291584','nm1086687','N'),
 	 ('tt1291584','nm0362766','["Tommy Conlon"]'),
-	 ('tt1291584','nm0000560','["Paddy Conlon"]'),
+	 ('tt1291584','nm0000560','["Paddy Conlon"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt1291584','nm0249291','["Brendan Conlon"]'),
 	 ('tt1291584','nm0607185','["Tess Conlon"]'),
-	 ('tt1291584','nm0640334','N'),
-	 ('tt1291584','nm3294574','N'),
-	 ('tt1291584','nm0233561','N'),
-	 ('tt1291584','nm0640345','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt1291584','nm0006142','N'),
 	 ('tt1305806','nm0201857','["Benjamín Esposito"]'),
 	 ('tt1305806','nm0897845','["Irene Menéndez Hastings"]'),
 	 ('tt1305806','nm0706567','["Ricardo Morales"]'),
 	 ('tt1305806','nm3587952','["Liliana Coloto"]'),
-	 ('tt1305806','nm0002728','N'),
-	 ('tt1305806','nm3160078','N'),
-	 ('tt1305806','nm0079065','N'),
-	 ('tt1305806','nm0989434','N'),
-	 ('tt1305806','nm0599983','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt1345836','nm0858799','N'),
 	 ('tt1345836','nm0000288','["Bruce Wayne"]'),
 	 ('tt1345836','nm0362766','["Bane"]'),
 	 ('tt1345836','nm0004266','["Selina"]'),
-	 ('tt1345836','nm0000198','["Commissioner Gordon"]'),
-	 ('tt1345836','nm0634240','N'),
-	 ('tt1345836','nm0634300','N'),
-	 ('tt1345836','nm0275286','N'),
-	 ('tt1345836','nm0004170','N'),
-	 ('tt1345836','nm0746273','N');
+	 ('tt1345836','nm0000198','["Commissioner Gordon"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt1375666','nm0245596','N'),
 	 ('tt1375666','nm0000138','["Cobb"]'),
 	 ('tt1375666','nm0330687','["Arthur"]'),
 	 ('tt1375666','nm0680983','["Ariadne"]'),
 	 ('tt1375666','nm0913822','["Saito"]'),
-	 ('tt1375666','nm0634240','N'),
-	 ('tt1375666','nm0858799','N'),
-	 ('tt1375666','nm0001877','N'),
-	 ('tt1375666','nm0002892','N'),
-	 ('tt1375666','nm0809059','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt1392190','nm0432725','N'),
 	 ('tt1392190','nm0362766','["Max Rockatansky"]'),
 	 ('tt1392190','nm0000234','["Imperator Furiosa"]'),
 	 ('tt1392190','nm0396558','["Nux"]'),
 	 ('tt1392190','nm2368789','["Toast the Knowing"]'),
-	 ('tt1392190','nm0004306','N'),
-	 ('tt1392190','nm0565068','N'),
-	 ('tt1392190','nm0490147','N'),
-	 ('tt1392190','nm0593294','N'),
-	 ('tt1392190','nm0900840','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt1392214','nm0467255','N'),
 	 ('tt1392214','nm0413168','["Keller Dover"]'),
-	 ('tt1392214','nm0350453','["Detective Loki"]'),
+	 ('tt1392214','nm0350453','["Detective Loki"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt1392214','nm0205626','["Nancy Birch"]'),
 	 ('tt1392214','nm0502425','["Holly Jones"]'),
-	 ('tt1392214','nm0898288','N'),
-	 ('tt1392214','nm3360706','N'),
-	 ('tt1392214','nm0204987','N'),
-	 ('tt1392214','nm0424663','N'),
-	 ('tt1392214','nm2221807','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt1454029','nm0002353','N'),
 	 ('tt1454029','nm1297015','["Skeeter Phelan"]'),
 	 ('tt1454029','nm0205626','["Aibileen Clark"]'),
 	 ('tt1454029','nm0818055','["Minny Jackson"]'),
 	 ('tt1454029','nm0397171','["Hilly Holbrook"]'),
-	 ('tt1454029','nm0853238','N'),
-	 ('tt1454029','nm3543826','N'),
-	 ('tt1454029','nm0055431','N'),
-	 ('tt1454029','nm0001060','N'),
-	 ('tt1454029','nm0337676','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
-	 ('tt1745960','nm0472567','N'),
 	 ('tt1745960','nm0000129','["Capt. Pete ''Maverick'' Mitchell"]'),
 	 ('tt1745960','nm0000124','["Penny Benjamin"]'),
 	 ('tt1745960','nm1886602','["Lt. Bradley ''Rooster'' Bradshaw"]'),
-	 ('tt1745960','nm0000174','["Adm. Tom ''Iceman'' Kazansky"]'),
-	 ('tt1745960','nm2676052','N'),
-	 ('tt1745960','nm0143596','N'),
-	 ('tt1745960','nm0258390','N'),
-	 ('tt1745960','nm0185976','N'),
-	 ('tt1745960','nm1098479','N');
+	 ('tt1745960','nm0000174','["Adm. Tom ''Iceman'' Kazansky"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt1832382','nm1818216','["Nader"]'),
 	 ('tt1832382','nm0368689','["Simin"]'),
 	 ('tt1832382','nm4299147','["Razieh"]'),
 	 ('tt1832382','nm1486911','["Hojjat"]'),
-	 ('tt1832382','nm1410815','N'),
-	 ('tt1832382','nm3156436','N'),
-	 ('tt1832382','nm0435534','N'),
-	 ('tt1832382','nm0755868','N'),
-	 ('tt1832382','nm1487566','N'),
-	 ('tt1853728','nm0711235','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt1853728','nm0004937','["Django"]'),
 	 ('tt1853728','nm0910607','["Dr. King Schultz"]'),
 	 ('tt1853728','nm0000138','["Calvin Candie"]'),
 	 ('tt1853728','nm0913488','["Broomhilda von Shaft"]'),
-	 ('tt1853728','nm0000233','N'),
-	 ('tt1853728','nm0399737','N'),
-	 ('tt1853728','nm0767894','N'),
-	 ('tt1853728','nm0792049','N'),
-	 ('tt1853728','nm0724744','N'),
-	 ('tt1895587','nm0837386','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt1895587','nm0749263','["Mike Rezendes"]'),
-	 ('tt1895587','nm0000474','["Walter ''Robby'' Robinson"]'),
+	 ('tt1895587','nm0000474','["Walter ''Robby'' Robinson"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt1895587','nm1046097','["Sacha Pfeiffer"]'),
 	 ('tt1895587','nm0000630','["Marty Baron"]'),
-	 ('tt1895587','nm0565336','N'),
-	 ('tt1895587','nm1802857','N'),
-	 ('tt1895587','nm1421308','N'),
-	 ('tt1895587','nm0326512','N'),
-	 ('tt1895587','nm2140746','N'),
-	 ('tt1950186','nm0867768','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt1950186','nm0000354','["Carroll Shelby"]'),
 	 ('tt1950186','nm0000288','["Ken Miles"]'),
 	 ('tt1950186','nm1256532','["Lee Iacocca"]'),
 	 ('tt1950186','nm1495520','["Mollie Miles"]'),
-	 ('tt1950186','nm0003506','N'),
-	 ('tt1950186','nm0125336','N'),
-	 ('tt1950186','nm3890871','N'),
-	 ('tt1950186','nm0445669','N'),
-	 ('tt1950186','nm1858656','N'),
-	 ('tt1979320','nm1003922','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt1979320','nm0117709','["Niki Lauda"]'),
 	 ('tt1979320','nm1165110','["James Hunt"]'),
 	 ('tt1979320','nm1312575','["Suzy Miller"]'),
-	 ('tt1979320','nm0487884','["Marlene Lauda"]'),
-	 ('tt1979320','nm0000165','N'),
-	 ('tt1979320','nm0604948','N'),
-	 ('tt1979320','nm0247787','N'),
-	 ('tt1979320','nm0271479','N'),
-	 ('tt1979320','nm0004976','N'),
-	 ('tt2024544','nm1250070','N');
+	 ('tt1979320','nm0487884','["Marlene Lauda"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt2024544','nm0252230','["Solomon Northup"]'),
 	 ('tt2024544','nm0931324','["Robert"]'),
 	 ('tt2024544','nm1055413','["Edwin Epps"]'),
 	 ('tt2024544','nm0000093','["Bass"]'),
-	 ('tt2024544','nm2588606','N'),
-	 ('tt2024544','nm0725983','N'),
-	 ('tt2024544','nm1185849','N'),
-	 ('tt2024544','nm0306890','N'),
-	 ('tt2024544','nm0441097','N'),
-	 ('tt2106476','nm1401820','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt2106476','nm0586568','["Lucas"]'),
 	 ('tt2106476','nm0488917','["Theo"]'),
 	 ('tt2106476','nm5038871','["Klara"]'),
 	 ('tt2106476','nm5039026','["Marcus"]'),
-	 ('tt2106476','nm0899121','N'),
-	 ('tt2106476','nm2105585','N'),
-	 ('tt2106476','nm1011849','N'),
-	 ('tt2106476','nm0442337','N'),
-	 ('tt2106476','nm0250813','N'),
-	 ('tt2119532','nm0202704','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt2119532','nm1940449','["Desmond Doss"]'),
-	 ('tt2119532','nm0941777','["Captain Glover"]'),
+	 ('tt2119532','nm0941777','["Captain Glover"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt2119532','nm3478396','["Smitty Ryker"]'),
 	 ('tt2119532','nm1954240','["Dorothy Schutte"]'),
-	 ('tt2119532','nm0000154','N'),
-	 ('tt2119532','nm0770938','N'),
-	 ('tt2119532','nm0460795','N'),
-	 ('tt2119532','nm0070822','N'),
-	 ('tt2119532','nm0192984','N'),
-	 ('tt2267998','nm0000702','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt2267998','nm0000255','["Nick Dunne"]'),
 	 ('tt2267998','nm0683253','["Amy Dunne"]'),
 	 ('tt2267998','nm0000439','["Desi Collings"]'),
 	 ('tt2267998','nm1347153','["Tanner Bolt"]'),
-	 ('tt2267998','nm0000399','N'),
-	 ('tt2267998','nm5058839','N'),
-	 ('tt2267998','nm0149556','N'),
-	 ('tt2267998','nm0232433','N'),
-	 ('tt2267998','nm0586969','N'),
-	 ('tt2278388','nm0748784','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt2278388','nm0000146','["M. Gustave"]'),
 	 ('tt2278388','nm0000719','["Mr. Moustafa"]'),
 	 ('tt2278388','nm0023832','["Serge X."]'),
-	 ('tt2278388','nm0004778','["Dmitri"]'),
-	 ('tt2278388','nm0027572','N'),
-	 ('tt2278388','nm0959003','N'),
-	 ('tt2278388','nm2450453','N'),
-	 ('tt2278388','nm0206154','N'),
-	 ('tt2278388','nm2262509','N'),
-	 ('tt2582802','nm3225654','N');
+	 ('tt2278388','nm0004778','["Dmitri"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt2582802','nm1886602','["Andrew"]'),
 	 ('tt2582802','nm0799777','["Fletcher"]'),
 	 ('tt2582802','nm2552034','["Nicole"]'),
 	 ('tt2582802','nm0001663','["Jim Neimann"]'),
-	 ('tt2582802','nm3227090','N'),
-	 ('tt2582802','nm0089658','N'),
-	 ('tt2582802','nm2615685','N'),
-	 ('tt2582802','nm0484123','N'),
-	 ('tt2582802','nm1490949','N'),
-	 ('tt3011894','nm0609212','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt3011894','nm0334882','Pasternak"")"]'),
 	 ('tt3011894','nm0555404','Pasternak"")"]'),
 	 ('tt3011894','nm0897640','Pasternak"")"]'),
 	 ('tt3011894','nm0823435','Pasternak"")"]'),
-	 ('tt3011894','nm1167933','N'),
-	 ('tt3011894','nm1238855','N'),
-	 ('tt3011894','nm0021948','N'),
-	 ('tt3011894','nm0000264','N'),
-	 ('tt3011894','nm0306088','N'),
-	 ('tt3170832','nm0169299','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt3170832','nm0488953','["Ma"]'),
-	 ('tt3170832','nm5016878','["Jack"]'),
+	 ('tt3170832','nm5016878','["Jack"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt3170832','nm0108703','["Old Nick"]'),
 	 ('tt3170832','nm0187724','["Talk Show Hostess"]'),
-	 ('tt3170832','nm1049433','N'),
-	 ('tt3170832','nm1480980','N'),
-	 ('tt3170832','nm3510918','N'),
-	 ('tt3170832','nm0347384','N'),
-	 ('tt3170832','nm0719673','N'),
-	 ('tt3315342','nm0918083','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt3315342','nm0413168','["Logan","X-24"]'),
 	 ('tt3315342','nm0001772','["Charles"]'),
 	 ('tt3315342','nm6748436','["Laura"]'),
 	 ('tt3315342','nm2933542','["Pierce"]'),
-	 ('tt3315342','nm0003506','N'),
-	 ('tt3315342','nm0291082','N'),
-	 ('tt3315342','nm0338169','N'),
-	 ('tt3315342','nm0739661','N'),
-	 ('tt3315342','nm0859471','N'),
-	 ('tt4016934','nm0161200','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt4016934','nm1195119','["Lady Hideko"]'),
 	 ('tt4016934','nm1978402','["Count Fujiwara"]'),
 	 ('tt4016934','nm2437361','["Uncle Kouzuki"]'),
-	 ('tt4016934','nm0600668','["Aunt of Lady Hideko"]'),
-	 ('tt4016934','nm0661791','N'),
-	 ('tt4016934','nm1258797','N'),
-	 ('tt4016934','nm1941029','N'),
-	 ('tt4016934','nm1367410','N'),
-	 ('tt4016934','nm0423280','N'),
-	 ('tt5027774','nm0339856','N');
+	 ('tt4016934','nm0600668','["Aunt of Lady Hideko"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt5027774','nm0000531','["Mildred"]'),
 	 ('tt5027774','nm0000437','["Willoughby"]'),
 	 ('tt5027774','nm0005377','["Dixon"]'),
 	 ('tt5027774','nm2655177','["Red Welby"]'),
-	 ('tt5027774','nm1732981','N'),
-	 ('tt5027774','nm0110357','N'),
-	 ('tt5027774','nm0194446','N'),
-	 ('tt5027774','nm0001980','N'),
-	 ('tt5027774','nm1023204','N'),
-	 ('tt5074352','nm3032965','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt5074352','nm0451148','["Mahavir Singh Phogat"]'),
 	 ('tt5074352','nm2799219','["Daya Kaur"]'),
 	 ('tt5074352','nm0760778','["Geeta Phogat"]'),
 	 ('tt5074352','nm7621667','["Babita Kumari"]'),
-	 ('tt5074352','nm4318159','N'),
-	 ('tt5074352','nm6328029','N'),
-	 ('tt5074352','nm6328031','N'),
-	 ('tt5074352','nm6328030','N'),
-	 ('tt5074352','nm8661566','N'),
-	 ('tt5311514','nm8823532','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt5311514','nm1126340','["Taki Tachibana"]'),
-	 ('tt5311514','nm4759838','["Mitsuha Miyamizu"]'),
+	 ('tt5311514','nm4759838','["Mitsuha Miyamizu"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt5311514','nm6954008','["Katsuhiko Teshigawara"]'),
 	 ('tt5311514','nm2976492','["Sayaka Natori"]'),
-	 ('tt5311514','nm1396121','N'),
-	 ('tt5311514','nm1038805','N'),
-	 ('tt5311514','nm5147232','N'),
-	 ('tt5311514','nm3356206','N'),
-	 ('tt5311514','nm2929057','N'),
-	 ('tt6751668','nm0393240','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt6751668','nm0814280','["Ki Taek"]'),
 	 ('tt6751668','nm1310525','["Dong Ik"]'),
 	 ('tt6751668','nm1856097','["Yeon Kyo"]'),
 	 ('tt6751668','nm6079248','["Ki Woo"]'),
-	 ('tt6751668','nm0094435','N'),
-	 ('tt6751668','nm8243301','N'),
-	 ('tt6751668','nm10113618','N'),
-	 ('tt6751668','nm11306825','N'),
-	 ('tt6751668','nm8885840','N'),
-	 ('tt6966692','nm3929283','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt6966692','nm0001557','["Tony Lip"]'),
 	 ('tt6966692','nm0991810','["Dr. Donald Shirley"]'),
 	 ('tt6966692','nm0004802','["Dolores"]'),
-	 ('tt6966692','nm1724319','["Johnny Venere"]'),
-	 ('tt6966692','nm0268380','N'),
-	 ('tt6966692','nm0885014','N'),
-	 ('tt6966692','nm0192942','N'),
-	 ('tt6966692','nm0121724','N'),
-	 ('tt6966692','nm0921853','N'),
-	 ('tt7286456','nm0177896','N');
+	 ('tt6966692','nm1724319','["Johnny Venere"]');
 INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt7286456','nm0001618','["Arthur Fleck"]'),
 	 ('tt7286456','nm0000134','["Murray Franklin"]'),
 	 ('tt7286456','nm5939164','["Sophie Dumond"]'),
 	 ('tt7286456','nm0175814','["Penny Fleck"]'),
-	 ('tt7286456','nm0680846','N'),
-	 ('tt7286456','nm0798788','N'),
-	 ('tt7286456','nm0004170','N'),
-	 ('tt7286456','nm0277730','N'),
-	 ('tt7286456','nm1047603','N'),
-	 ('tt8267604','nm4752699','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt8267604','nm9862858','["Zain"]'),
 	 ('tt8267604','nm9862859','["Rahil"]'),
 	 ('tt8267604','nm9862860','["Yonas"]'),
 	 ('tt8267604','nm10201625','["Souad"]'),
-	 ('tt8267604','nm1701024','N'),
-	 ('tt8267604','nm2764802','N'),
-	 ('tt8267604','nm9878616','N'),
-	 ('tt8267604','nm2759610','N'),
-	 ('tt8267604','nm1848588','N'),
-	 ('tt8503618','nm2010670','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt8503618','nm0592135','["Alexander Hamilton"]'),
-	 ('tt8503618','nm5623883','["Eliza Hamilton"]'),
+	 ('tt8503618','nm5623883','["Eliza Hamilton"]');
+INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt8503618','nm1502434','["Aaron Burr"]'),
 	 ('tt8503618','nm0325989','["Angelica Schuyler"]'),
-	 ('tt8503618','nm2371802','N'),
-	 ('tt8503618','nm2375857','N'),
-	 ('tt8503618','nm1733243','N'),
-	 ('tt8503618','nm0002336','N'),
-	 ('tt8503618','nm0602885','N'),
-	 ('tt8579674','nm0854991','N');
-INSERT INTO imdb.actors_movies (movie_id,actor_id,`characters`) VALUES
 	 ('tt8579674','nm2835616','["Lance Corporal Blake"]'),
 	 ('tt8579674','nm1126657','["Lance Corporal Schofield"]'),
 	 ('tt8579674','nm0990547','["Sergeant Sanders"]'),
-	 ('tt8579674','nm0000147','["General Erinmore"]'),
-	 ('tt8579674','nm0005222','N'),
-	 ('tt8579674','nm4880670','N'),
-	 ('tt8579674','nm0365208','N'),
-	 ('tt8579674','nm0568223','N'),
-	 ('tt8579674','nm1003922','N');
+	 ('tt8579674','nm0000147','["General Erinmore"]');
