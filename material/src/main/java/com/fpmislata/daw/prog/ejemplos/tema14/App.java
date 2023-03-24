@@ -12,30 +12,40 @@ public class App {
             Connection connection = DBUtil.open();
             System.out.println("Conexión establecida con la bbdd");
             
-            /*String sql = "INSERT INTO movies (title, year, rating, image, id_director) VALUES ('prueba título', 1900, 9.5, null, 1)";
+            /*String sql = """
+                INSERT INTO movies (imdb_id, title, year, image, runtime, description, director_id) 
+                VALUES ('tt0071524', 'Segunda plana', 1974, null, 105, null, 'nm0000697')                    
+            """;
             PreparedStatement preparedStatement = connection.prepareStatement(sql);
             preparedStatement.executeUpdate();*/
 
-            /*String sql = "UPDATE movies SET title = 'título modificado' WHERE title = 'prueba título'";
+            /*String sql = "UPDATE movies SET title = 'Primera plana' WHERE title = 'Segunda plana'";
             PreparedStatement preparedStatement = connection.prepareStatement(sql);
             preparedStatement.executeUpdate();*/
 
-            /*String sql = "DELETE FROM movies WHERE title = 'título modificado'";
+            /*String sql = "DELETE FROM movies WHERE title = 'Primera plana'";
             PreparedStatement preparedStatement = connection.prepareStatement(sql);
             preparedStatement.executeUpdate();*/
 
-            /*String sql = "INSERT INTO movies (title, year, rating, image, id_director) VALUES (?, ?, ?, null, ?)";
+            /*String sql = """
+                INSERT INTO movies (imdb_id, title, year, image, runtime, description, director_id) 
+                VALUES (?, ?, ?, null, ?, null, ?)                    
+            """;
             PreparedStatement preparedStatement = connection.prepareStatement(sql);
-            preparedStatement.setString(1, "prueba título");
-            preparedStatement.setInt(2, 1900);
-            preparedStatement.setFloat(3, 9.5f);
-            preparedStatement.setInt(4, 1);
+            preparedStatement.setString(1, "tt0071524");
+            preparedStatement.setString(2, "Primera plana");
+            preparedStatement.setInt(3, 1974);
+            preparedStatement.setInt(4, 105);
+            preparedStatement.setString(5, "nm0000697");
             preparedStatement.executeUpdate();*/
 
 
-            /*String sql = "INSERT INTO movies (title, year, rating, image, id_director) VALUES (?, ?, ?, null, ?)";
+            /*String sql = """
+                INSERT INTO movies (imdb_id, title, year, image, runtime, description, director_id) 
+                VALUES (?, ?, ?, null, ?, null, 'nm0000697')                    
+            """;
             List<Object> params = List.of(
-                "prueba título", 1900, 9.5f, 1
+                "tt0071524", "Primera plana", 1974, 105, "nm0000697"
             );
             DBUtil.insert(connection, sql, params);*/
 
@@ -53,7 +63,7 @@ public class App {
             System.out.println(
                 "Título: " + resultSet.getString("title") + 
                 "\nAño: " + resultSet.getInt("year") + 
-                "\nRating: " + resultSet.getFloat("rating")
+                "\nDuración: " + resultSet.getInt("runtime") + " min\n"
             );*/
 
 
@@ -65,7 +75,7 @@ public class App {
                 System.out.println(
                     "Título: " + resultSet.getString("title") + 
                     "\nAño: " + resultSet.getInt("year") + 
-                    "\nRating: " + resultSet.getFloat("rating")
+                    "\nDuración: " + resultSet.getInt("runtime") + " min\n"
                     );
             }*/
 
@@ -76,7 +86,7 @@ public class App {
                 System.out.println(
                     "Título: " + resultSet.getString("title") + 
                     "\nAño: " + resultSet.getInt("year") + 
-                    "\nRating: " + resultSet.getFloat("rating")
+                    "\nDuración: " + resultSet.getInt("runtime") + " min\n"
                     );
             }
 
@@ -84,6 +94,7 @@ public class App {
 
             DBUtil.close(connection);                
         } catch (Exception e) {
+            System.out.println(e.getMessage());
             System.out.println("Algo no ha funcionado como debería");
         }
     }
